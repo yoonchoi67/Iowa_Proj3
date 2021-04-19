@@ -1,0 +1,5 @@
+Finished the traversing of 5 topics in 384.6258 seconds
+Finished the traversing of 6 topics in 394.6999 seconds
+Finished the traversing of 7 topics in 411.7955 seconds
+Finished the traversing of 8 topics in 423.0082 seconds
+Finished the traversing of 9 topics in 432.4913 secondsFinished the traversing of 10 topics in 517.3177 seconds
