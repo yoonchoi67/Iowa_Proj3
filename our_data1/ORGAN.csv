@@ -1,0 +1,1722 @@
+ORGAN,frequency
+stomach,28
+nasal,269
+cystic,171
+root,69
+quasipecies,1
+roots,80
+lung,2874
+sputa,9
+throat,119
+hand,371
+pulmonary,1423
+solid,71
+tract,1059
+testis,35
+colon,101
+embryonic testis,1
+spermatogonia,1
+lungs,893
+organs,428
+liver,1438
+brain,1014
+quasispecies,15
+salmon,8
+gills,6
+spleen,414
+thymus,89
+muscle,176
+embryos,55
+alveolar,92
+M.,32
+Lungs,24
+eye,210
+pigs,44
+cytomegaly,2
+pharyngeal,19
+nares,5
+bronchus,15
+conjunctiva,6
+skin,424
+globe,168
+infants,230
+umbrella,2
+cardiac,343
+swabs,128
+small bronchi,2
+proventriculus,13
+oviduct,31
+kidney,588
+tracheal,57
+renal,301
+F.,81
+livers,87
+secretions,107
+HCW,93
+bronchoalveolar lavage,42
+alveoli,44
+neonates,101
+ear,128
+pneumonia-like,5
+gonad,3
+hepatic,191
+Lethal,21
+scours,15
+placenta,59
+intestinal,388
+eggs,98
+extrapulmonary,36
+bone,66
+placental,13
+speciosa,1
+organ,448
+intestine,213
+tubules,18
+salivary,27
+GI,77
+biopsy,56
+sperm-egg,1
+Lung,315
+biliary,18
+peripheral,127
+Foot-and-mouth,3
+smooth,3
+seed,43
+Nose,14
+subcutis,4
+gill,8
+heart,655
+splenic,26
+otitis,8
+jejunum,90
+oral,334
+piglets,949
+spillover,36
+pulmonary edema,10
+testes,25
+Pulmonary,204
+cochlea,11
+lethal,100
+Technology,20
+sputum,222
+proventricular,6
+pancreas,61
+Liver,90
+lateral,19
+saliva,94
+Lymphogranuloma,1
+leaf,43
+reddish,1
+inflammation,59
+ventricular,13
+fetus,65
+Skin,33
+enteroviruses,10
+intraoral,3
+nasopharyngeal,85
+kidneys,127
+intestines,76
+thyroid,32
+Hashimoto,1
+UTI,12
+Face Mask,1
+muscular,32
+feeder,4
+visceral,33
+scarlet,9
+lymphoid,24
+neonatal,93
+hemolymph,1
+Mucus,2
+bronchoscopy,45
+stool,197
+cardiovascular,105
+cardiopulmonary,55
+pharyngeal swabs,10
+swan,3
+Roots,6
+spinal cord,168
+gallstone,5
+cholangiocellular,1
+pups,76
+feces,166
+gut,129
+Oral,83
+pork,57
+pharynx,18
+gastro-intestinal,9
+Thymus linearis,1
+eyes,69
+hemisphere,26
+URT,43
+granulomas,21
+sperm head,1
+lobe,13
+pharyngeal secretions,2
+TCAD,3
+enteritis,175
+ocular,119
+oropharynx,27
+pancreatic,24
+swab,66
+aspirate,10
+mammary gland,29
+oviducts,2
+anogenital,1
+cloaca swabs,1
+Parenchymal,3
+parenchymal,10
+papules,1
+trunk,7
+abdomen,15
+extremities,17
+Pancreatic,8
+salmonis,2
+epithelium,9
+bloodstream,26
+Hand,7
+Extrapulmonary,4
+circulatory,3
+intracranial,57
+gastrointestinal,314
+vaginal,69
+vault,2
+segmental/lobar,2
+cattle,2
+bloody,8
+biopsies,16
+cerebellum,35
+rectum,22
+extrarespiratory,3
+bud,26
+fetal,81
+cloacal,9
+embryonic,25
+vestibular labyrinth,2
+bursal,47
+nasopharynx,72
+oropharyngeal,41
+swabbed,7
+bowel,114
+IBD,92
+small intestine,145
+small intestines,30
+bullfrog tadpoles,1
+tadpole,2
+tadpoles,3
+plaques,21
+stools,141
+Foot,8
+rectal,61
+musculature,2
+alveolus,4
+microbiome,78
+sacs,6
+sac,2
+petechial,5
+ecchymotic,3
+utricle,2
+saccule,2
+utricular,1
+tubers,4
+infant,59
+alpha-COPI,3
+midgut,7
+thymic,31
+cervical,20
+genotype-1,2
+Heart,65
+autonomic nervous,4
+autonomic,9
+veins,4
+gastric,46
+Gastric,5
+nervous,25
+sperm,1
+tuberculous,7
+chest,78
+spleens,37
+Alveolar,7
+horns,5
+Nasopharyngeal,22
+Edema,4
+ascend,5
+sores,3
+quail,29
+self-collection,7
+skeletal,25
+temples,3
+small intestinal crypts,1
+target-organ,1
+pup,7
+bronchopneumonia,1
+mouth,30
+snail,2
+T3,10
+tracheas,16
+lymph,5
+needle,5
+meningeal,4
+abdominal,59
+bronchioles,27
+femur,5
+spinal cords,55
+m.,5
+pouch,1
+olfactory,51
+diencephalon,1
+rhombencephalon,1
+iridovirus,4
+neonate,8
+stigmas,2
+muscles,17
+respiratory,1
+HAND,2
+whole-organ,1
+mesentery,6
+urinary,8
+omentum,6
+skin biopsy,7
+Flowers,1
+small greenish,1
+leaves,27
+excreta,7
+end-organ,4
+soybean,2
+puppies,64
+tissue,4
+petechiae,3
+heifers,47
+esophageal,3
+parenchyma,26
+periphery,9
+myocardium,14
+barnacle,1
+extramural,4
+predelivery,3
+placentas,26
+Cardiopulmonary,3
+eaten,8
+Throat,11
+Vaginal,7
+faeces,28
+Thymic,3
+urogenital,6
+corporal,1
+CRD,1
+1-day-old,5
+epiglottis,5
+buds,24
+smokers,24
+Fasciola hepatica,1
+F. hepatica,1
+fluke,1
+thoracic,49
+abscesses,3
+erythema,4
+spinal canal,1
+fetuses,29
+centrilobular,6
+bronchiolar,24
+mounts,4
+rectal swabs,15
+tonsillar,25
+adenoids,24
+tonsils,38
+collateral,4
+Organ,5
+FM,1
+Salivary gland,1
+Bone,6
+pseudoglandular,1
+broilers,55
+cloacal swabs,7
+foetuses,12
+egg,95
+cloaca,9
+esophagus,10
+allograft,56
+Pleural,11
+Tubular,1
+throat swabs,18
+hemocoel,4
+suckling piglets,97
+piglet intestines,2
+spiral,1
+lymphoid organs,28
+bladder,52
+lavage,13
+nostril,3
+tongue,33
+Salivary,6
+Organs,4
+Brain,40
+interstitial,16
+TBLN,2
+ectodermal,3
+ectodermal organs,1
+Mask,1
+intrapulmonary,12
+pleural,109
+bark,9
+nasopharyngeal secretions,8
+cornea,12
+worm,3
+spinal-cord,1
+tumoral,1
+Tracheal,9
+trachea,59
+bursa,32
+ciliary,25
+seaweed,3
+uterus,15
+flowers,12
+wilting,1
+intrahost,11
+Palatal,1
+palatal,2
+lung fluke,1
+miracidium,1
+lymphatic,42
+milk,5
+thorax,13
+CTV,13
+newborns,37
+oro-nasal,2
+No-GI,2
+skeletal muscles,8
+lectinhistochemistry,1
+ALRI,9
+graft,34
+skin layers,1
+epidermis,14
+dermis,6
+burnt,3
+gastritis,7
+level-one,1
+mineral,7
+simplex,1
+oropharyngeal swab,12
+Ear,15
+Bloodstream,2
+skin scurfs,1
+limb,7
+limb muscles,3
+extraneural,3
+genital skin,1
+CYDV-RPV,2
+hindgut,4
+aphid midgut,1
+nose,7
+piglet intestine,1
+pupae,1
+barrier,26
+hearth,1
+corneal,21
+emus,6
+neonatal piglets,61
+Muscle,11
+cervicovaginal,1
+urethra,2
+Fabricius,19
+flower,8
+pectoral,1
+Fibular,1
+fibular,1
+cerebrum,10
+midbrain,5
+expectorate,1
+ears,8
+stomachs,3
+URTIs,2
+colonic,15
+indigotica,15
+avascular,3
+tubular,5
+serous,4
+Marrow,7
+marrow,24
+ventricle,14
+FAdV-1,2
+Nasopharyngeal swab,6
+mucous,3
+stichosome,1
+shrimp,8
+salivary gland,10
+mdx skeletal,1
+heart muscle,5
+survivor,1
+pulmonary alveolar,2
+LRTD,28
+necrotic,13
+Body,1
+naso-pharyngeal swabs,2
+vulvar,1
+anal,9
+hitchhiker,1
+trilateral,1
+bronchograms,6
+atrial,8
+piglet,60
+sidoides,1
+cilliary,2
+oropharyngeal swabs,17
+seminal,19
+lymphadenopathy,26
+Thyroid,2
+Odor,1
+Intestinal,18
+Emphysema,3
+intra-pulmonary,1
+ducklings,3
+nasopharyngeal swab,7
+broncho-interstitial,1
+bladders,8
+mucus,6
+islets,9
+pig,3
+subcompartments,1
+stud,2
+MHVs,21
+haemocoel,1
+reactionary,2
+esophagitis,1
+multiorgan,39
+seeds,16
+multiple-organ,3
+serums,6
+slaughterhouse,10
+adulthood,1
+genital,15
+tegument,6
+LCM,6
+interfollicular,2
+extrahepatic,6
+scorpions,6
+secretory organs,1
+tonsil secretions,1
+Placental,2
+non-celiac gluten,2
+celiac,23
+brainstem,6
+salivary glands,13
+cerebral,41
+intra-abdominal,3
+airspaces,4
+aerial,7
+small joint,1
+alimentary organs,1
+Pulmonary alveolar,2
+yellowish,2
+suckling piglet,1
+CMV-seropositive,2
+Nail,1
+Peripheral,14
+ovaries,20
+schistosomula,4
+Cardiac,28
+seabass,3
+seabass kidney,1
+intra-host,6
+Kidney,45
+skin swabs,1
+mammary,7
+midguts,2
+Bowel,2
+gut barrier,5
+GIT,9
+glomerular,7
+meat,4
+Mammary,4
+glands,24
+breast,4
+pancreatits,1
+low-grade,1
+perivascular,3
+19/19,1
+bulbs,6
+guineafowl,3
+adult,10
+Oropharyngeal,7
+meninges,17
+tracheae,4
+suckling,19
+GI tract,5
+URT microbiome,1
+endometrial,2
+Bivalvia,1
+Penile,1
+neonatal suckling,4
+self-swabbing,4
+cardio-cerebrovascular,1
+laryngeal,15
+leaf wilting,1
+Luxi,1
+spinal,17
+Pancreas,4
+exocrine pancreas,1
+head-kidney,2
+soybeans,3
+anal swab,4
+enterotoxemia,3
+neonatal pig,3
+stews,1
+aortas,1
+small intestinal,22
+Eye,3
+Leghorns,2
+endosperm,1
+Spleen,16
+Lepidoptera,5
+blunt,9
+one-day-old,1
+feathers,4
+gut microbiome,14
+alimentary,3
+shoots,2
+shoot,3
+prostate,9
+PTV,16
+penis,2
+preputial,1
+bowels,2
+skin wound,4
+wounded,1
+skin wounds,1
+cord,13
+nasopharyngeal/oropharyngeal,3
+nasopharyngeal swabs,13
+explants,6
+lipoid,5
+sympathetic ganglia,1
+cecum,13
+tissue/organ,2
+MGs,31
+infiltrates,4
+BCG,2
+turbinates,2
+infant airway,3
+RVA,3
+rectal swab,4
+Bladder,3
+pelvic,2
+sweet,7
+saps,1
+PWL,2
+litter,1
+Cardiovascular,2
+survivors,1
+Rat,3
+Bronchiolar,1
+neonatal lung,1
+axillary,11
+lips,3
+carcass,20
+stallions,16
+utero,16
+grains,1
+adrenal,14
+lacunae,2
+Juveniles,2
+edema,3
+Vesicular,4
+thymuses,2
+adenoid,11
+teeth,19
+Fine-needle,2
+transmural,3
+cranial lung,1
+Embryonic,1
+liver-,2
+Fayoumi,1
+Bronchoalveolar Lavage,2
+Malignancies,6
+striata,2
+swans,6
+nasopharyngeal/oropharyngeal swabs,1
+turkeys,9
+caecum,11
+early-stage,6
+epididymis,6
+intestinal porcine epithelial cell line,1
+limbs,14
+sinopulmonary,1
+cardiomegaly,2
+pericardium,3
+pericardial,14
+tonsil,15
+cellulitis,1
+Laurenson,1
+post-lung,2
+octagenarians,1
+ulcers,2
+shell gland,14
+brown-egg laying,2
+extra-cranial,1
+extracranial,4
+naso-pharyngeal,2
+MOC,2
+gland-specific,1
+cervix,4
+orchitis,2
+foetus,6
+guinea-pig,2
+resuts,1
+contra,1
+bones,9
+tibia,7
+Interface,1
+mediastinal,7
+sewage,17
+skin allograft,4
+pasty,1
+supraclavicular,1
+larynx,21
+leafhopper intestine,1
+fat,3
+tongues,1
+Rotten,1
+sweat,5
+viscera,6
+pulmonary microbiome,4
+Axillary,1
+AGWs,7
+AGW,1
+AGW biopsy,1
+Bursal,2
+oro-tracheal,1
+PCMV-infected,1
+intratumoral,6
+fetal brain,2
+sperm-rich,3
+semen,23
+non-pulmonary,1
+ovary,8
+mucosae,11
+right,1
+lobes,18
+turbinate,5
+parasympathetic,1
+sympathetic nervous,4
+leaf extracts,5
+dystrophic mice,1
+dystrophic,2
+RVC,7
+inlet,3
+cachexia,3
+goose embryos,1
+spreadable,1
+extra-pulmonary,9
+Extra-pulmonary,3
+conduit,1
+Tonsillar,3
+LRI,4
+gut mucosal,2
+cervical secretions,1
+scalp,1
+lumbosacral spinal,1
+PBM,1
+testicular,16
+Pigs,4
+Gut,2
+Skin Microbiota,1
+Peyer,26
+TDL,1
+Preparations,3
+otitis externa,1
+leeches,2
+mammary glands,5
+HIV-,1
+gums,3
+knee,10
+brain parenchyma,14
+Cloacal swabs,1
+ECEs,5
+lamb,4
+hepatic/renal,1
+infundibulum,4
+Cardiac glycosides,1
+oro-pharynx,1
+naso-oro-pharyngeal,1
+digesta,1
+Digesta,1
+Sinonasal,2
+sinonasal,7
+meatuses,1
+seaweeds,6
+bronchiseptica,8
+Jugular,1
+eyelids,3
+NAFLD,1
+sputums,2
+mandibular,4
+mandible,1
+Mandibular,1
+longan,2
+globular embryos,1
+sputum specimens,3
+saundersiae,1
+MEVs,14
+oronasal,12
+skin barrier,2
+quails,13
+leptomeninges,7
+Renal,6
+sharks,1
+buccal swab,2
+toilet,1
+signet,1
+tracheobronchial,4
+jirovecii,19
+buccal swabs,2
+microbiotas,1
+yolk,4
+orbits,1
+UCBT,1
+endobronchial,2
+Beak,1
+beak,3
+beaks,1
+ILD,4
+pullets,4
+pullet,2
+Bladders,1
+neonatal calves,3
+isthmus,1
+goose,2
+Nasopharyngeal swabs,8
+TMJ,3
+lachrymal,2
+greenish,1
+nasopharynxes,1
+self-sampled nasal,1
+fetal/neonatal thymus,1
+B[a]P-induced lung,2
+inoculum,2
+steroidâinduced,1
+Cerebral,1
+EPTV,1
+orbit,6
+cecal,5
+induration,1
+respi,1
+feed,3
+head,8
+hypothalami,1
+sublumbar,1
+ventral,4
+salivirus,1
+gut microbiotaâ.,1
+gallbladder,3
+corpus,5
+noses,3
+torso,1
+vagina,9
+vaginal swab,2
+leg,7
+BLT,1
+Biopsy,3
+vasculitits,1
+piglet intestinal,2
+polypoid,1
+foetal,9
+MHS,1
+sickest,1
+spermatozoa,5
+PNS,6
+footpad,4
+TSF,3
+saliva swabs,1
+Uncia uncia,1
+skin biopsies,1
+RSV-negative,5
+cast-off skin,1
+tubes,1
+nonimmune organs,2
+traqueal,1
+gonads,2
+bull,2
+post-partum,4
+tomentosa,2
+Fetal,8
+Cloacal swab,1
+laryngo-pharynx,2
+wall,7
+colons,3
+gluteal,1
+extramedullary,1
+intestinal microbiome,2
+ilea,4
+thoracoabdominal,1
+ducts,6
+duct,7
+beef,1
+steers,24
+hemorrheology,2
+preneoplastic,1
+sepsis-like,4
+bleeds,2
+Melissa,1
+biventricular,1
+Intestines,4
+Pus,1
+papular,2
+brain edema,2
+anterior brain,1
+midline,1
+hemispheres,1
+sap,2
+larval,6
+submaxillary salivary,1
+organs/tissues,3
+suckling hamsters,1
+gut sections,1
+nasopharingeal,1
+flank,4
+lung lavage,1
+HVs,1
+Tonsillar swabs,1
+explant,1
+embryonic turkey,1
+embryonated eggs,2
+infant intestinal,1
+pancreases,2
+secretory IgA,5
+ova,3
+lodging,3
+pads,6
+armpits,1
+ivory,1
+skins,1
+telencephalon,1
+allografts,9
+cartilaginous fish,1
+blood-borne,1
+bacterial/fungal,2
+pituitary,5
+dura,1
+keloids,1
+polyps,5
+meridian,1
+30-days-old,1
+Yellowish,1
+poult enteritis,1
+tracheal swab,1
+portal,8
+palmatum,1
+Urethral,1
+snout,2
+tooth,10
+CNS,7
+sperms,1
+virus-related glomerular,1
+gut microvasculature,1
+spur,2
+corneas,10
+perforatus,1
+extracardiac,2
+ano-genital,1
+ileum-cecal,3
+ceca,4
+gizzard,6
+UVJ,1
+embryonated,1
+solid-organ,3
+broiler,2
+Vitreous Fluid,1
+hilum,1
+milk fat,1
+guts,2
+saliva swab,1
+Pulmonary edema,1
+LRTIs,1
+stool swabs,1
+antennae,2
+CLPP,1
+ovarian,2
+spermatid,1
+scrapings,1
+F4R+,2
+duodenal,10
+spermatozoon,1
+embryo,10
+thrips,1
+oysters,9
+pens,4
+55-d,1
+Biopsies,2
+bulb,1
+Aortic,2
+aortic,17
+medulla,2
+Cag7-ct383,2
+virgin,1
+on-farm,1
+cords,4
+Bones,1
+genital gland,1
+embryonated egg,2
+chorioallantoic,2
+amniotic,2
+embryo intestines,1
+Sialoglycoconjugate,1
+Mohs,2
+epithelia,1
+genital tract,6
+circular,5
+valve,6
+perivalvular,1
+Feeder,1
+pulmonary compartment,1
+spinal cord axons,1
+allantois,1
+Leschenault,3
+cochlear,1
+renovascular,1
+neonatal ferret,1
+uvea,2
+pad,2
+pregnancies,2
+valves,3
+lumbar spinal,1
+circumventricular organs,2
+pyramidal,2
+Corneas,2
+liver allograft,1
+preattachment,1
+bronchoalveolar,3
+hindbrain,3
+multicycle,6
+cricoid,1
+ciliary dyskinesia,2
+airspace,1
+infant bronchial,1
+Recipients,5
+vagus,2
+baroreflex,1
+subpleural,9
+Macrovascular,1
+microvascular,2
+molars,2
+myocardia,1
+bursae,1
+vaginal IgA,4
+deltoid,5
+mediastinum,6
+cavity,2
+emphysematous,1
+splenic marginal,1
+neonatal puppies,1
+serpent,1
+T21,1
+soft-tissue,3
+spine,3
+mid-thoracic spinal,1
+Livers,1
+spinocerebellar,2
+midjejunum,2
+siphons,1
+IFITM-3,2
+iris,6
+anterior,8
+periocular,2
+brain barrier,1
+intrahepatic,5
+chicks,3
+rhinomanometry,1
+diaphragm,4
+pelvis,4
+basilar,1
+successors,1
+trigeminal ganglion,1
+hind-limb,1
+hamsters,1
+interna,1
+cranial bones,1
+Oropharyngeal Swab,1
+Betacoronavirus,2
+no-HCV-ACR,3
+HCV-ACR,3
+small plaques,2
+bilobular,1
+Lymphadenopathy,2
+post-transplant,2
+excretors,1
+sympathetic outflow,2
+berries,1
+EZ1,2
+Tissue,1
+jaw,2
+bronchiole,1
+A59-induced,1
+Cervical,2
+jejunums,1
+Jejunal,3
+Llamas,1
+bronchiolization,1
+arm,1
+d100,1
+end-stage,2
+transplants,9
+stolons,3
+skeletal muscle-specific,2
+trophoblastic,4
+barrel,3
+nonocular,1
+neonatal gnotobiotic,1
+Egg Yolk,1
+duodenum,13
+IPF,1
+lumbar,1
+Controls,1
+neonatal brain,2
+retrocaval,1
+primordial lung,1
+Spinal cord,1
+Intrapulmonary,1
+Biliary,1
+Fruits,2
+bronchospheres,1
+Vesicular stomatitis,1
+peafowl,8
+Skin Biopsy,1
+Pharyngeal,1
+pharyngeal swab,12
+pterygium,2
+limbal,1
+Adenoid,1
+subchondral,1
+stroma,4
+piglet ileum,1
+glandular,1
+sterile-,1
+tracheolaryngeal,1
+spermaduct,1
+testicle,3
+IgA,1
+xenocorneal,2
+salivary IgA,4
+remnant nasopharyngeal,1
+sepsis/NEC,3
+ampulla,2
+marrow recipients,1
+reno-cardiovascular,1
+reno-cardiac,1
+shoulders,1
+fastigium,1
+extradural,1
+cesarean,1
+pancreaticoduodenal,1
+dermal,5
+Pharyngeal swabs,1
+intestine Ducks,1
+oblique,3
+periodontium,2
+enteroids,1
+CV-A24v,1
+tissues/organs,1
+cranial abdomen,1
+P/V,1
+Beef,1
+bronchopulmonary,3
+bakery,4
+Bronchopulmonary,1
+Skin Microbiome,1
+BoV,1
+pulmonal,1
+stones,3
+pubic,2
+nipples,1
+footpads,1
+pods,1
+squirrels,2
+under-developed,1
+Calophyllum inophyllum,1
+Bulbs,1
+bulblet,1
+batchs,1
+stone,6
+FNEs,2
+multimillion-dollar,1
+spinal parenchyma,1
+udder,6
+teats,1
+pilosa,1
+EVD,1
+inner,1
+F. Pigs,1
+loin,2
+Torrey,1
+sinuses,7
+Cystic,1
+temporomandibular,1
+oropharyngeal secretions,1
+lobular,1
+bronchial,1
+lobar-segmental,1
+organ/tissue,1
+Newborns,1
+regio,1
+sage,2
+tendons,1
+small/short,1
+bronchioli,2
+non-skeletal,1
+small liver,1
+Lymphatic,1
+lymphatics,1
+cranium,2
+testicles,2
+pulmonary systemâs,1
+tahini,1
+meat-,1
+proventriculitis,2
+mastoid,1
+lung allograft,3
+intraocularly,2
+Retroperitoneum,2
+mitral,3
+oesophageal,2
+grimaces,1
+SPV,3
+orchids,1
+lumber,1
+appendices,1
+skull,3
+vertebral,1
+cranial,2
+tendon,1
+PTVs,3
+embryonated hen,1
+corporeal,1
+Laryngeal,1
+peripheral lung,1
+tube,1
+BAT,1
+Faeces,1
+integumentary,3
+haemolymphatic,1
+Jejunum,2
+bone-marrow,1
+septum,4
+maxilloturbinate,1
+sloth,1
+labyrinth,1
+sternebrae,1
+suis,1
+gypsy,1
+ciliated respiratory epithelial cells,2
+gland,5
+parotid,1
+scrotum,1
+scrotal,1
+urethral,1
+levator ani,1
+placentae,1
+ureteral,3
+coeliac,1
+genoma,1
+regraft,2
+systematicaly,1
+echinoderm coelom,1
+Extracranial,1
+calvarial,1
+aspirates,2
+hydatid,1
+dyspepsia,2
+perineal,1
+atrioventricular,2
+Flower,1
+Sunscope,6
+throat-swab,1
+acellular,1
+femora,2
+atrium,1
+pleura,17
+submucosa,2
+retroperitoneal,2
+small pulmonary,2
+thrombotic,5
+colorectal,1
+EGJ,1
+swimbladder,1
+neonatal kids,1
+muzzle,1
+Mucocele,1
+Vestibular,1
+brown seaweeds,1
+biliary caniculae,1
+annexes,1
+precellular,1
+subsegmental,2
+Papilloma,1
+BALT,6
+exocrine,2
+transplantations,1
+Mediastinum,1
+saccular,1
+Arthropod-Borne,1
+incisors,2
+cuspidate molars,1
+gravid uterus,1
+legs,2
+toes,1
+braincase,1
+buccal,2
+sigmoid,3
+boney,1
+canal,2
+Entropion,1
+Microbiota,2
+Intestine,4
+inter-host,1
+TTIs,7
+ostrich,1
+squabs,1
+Glomerular,1
+retropharyngeal,1
+pulmonary parenchyma,1
+Effusions,1
+NVRs,1
+forestomach,2
+retroperitoneum,1
+Epididymis,1
+Stomach,2
+orofacial,4
+Myocardial,5
+spices,4
+savory,2
+intercostal muscles,1
+tail,7
+pinnae,1
+Colon,1
+Exocrine Pancreas,1
+suppurative,7
+Esophageal,3
+orotracheal,4
+outlet,2
+vater,1
+abomasum,4
+salivary secretions,1
+IBS,1
+thick-,1
+myocardial,2
+glottic,1
+slice,2
+epigoitrin,1
+impressed,1
+Intracranial,1
+baja,2
+bronquial,3
+shellfish,1
+tumor-like,2
+pseudomembranous,1
+ulcerous,1
+preimplantational,1
+gilt,1
+ÃberprÃ¼fung,1
+CVS,7
+veil,1
+tear,1
+bronchiolites,3
+maxillofacial,3
+typhlitis,1
+solubles,2
+temporales,3
+sexually-transmitted,1
+excepcional,1
+mucose,1
+primo,2
+sinusites,1
+jaws,1
+infant respiratory,1
+Salivary Swab,1
+oropharyngeal saliva,1
+erythematous,3
+iridodial,1
+lymphocytic,2
+sexta,1
+elderberry,4
+parenchyme,1
+purulence,2
+calcinoses,1
+structures,1
+IAS,7
+groin,1
+Articular,1
+Referable,1
+echelon,1
+mTOR-,2
+polyp,1
+severe-acute,1
+outflow,7
+CSG,4
+IAs,1
+nasal-swab,1
+BALF,2
+forehead,1
+oro-,1
+spill-over,4
+conjunctival,1
+lobules,2
+anal swabs,3
+oropharynx swab,1
+gonadal,3
+Centers,1
+prostatic,3
+Swiss,3
+squash,1
+peripleural,1
+self-restraint,1
+cadaver,1
+pneumonia/acute,1
+atria,1
+taste,3
+prised,1
+Leaf extracts,1
+Larval,1
+mesenterium,1
+eyelid,3
+oesophagus,3
+scaly,1
+eye protection.1,1
+RCVS,1
+lacunes,1
+leptomeningeal,2
+syngeneic graft-versus-host,1
+kidney-pancreas,1
+lymphoreticular,3
+incisional,5
+resorptions,1
+Genital,3
+erythrocyte,1
+Thermosensitivity,1
+profuse,1
+lacrimal,1
+neonatal kittens,1
+salmonellas,1
+swollen-head,2
+paw,1
+sows,1
+65-d,1
+single-lung,2
+BYDV,3
+microvillar,1
+perianal,1
+trochanter,1
+genital organs,1
+intracellular murine,1
+Thymus,6
+nonaborted fetuses,3
+Gallinarum,1
+flocks,1
+ileal,1
+neonatal guinea,1
+Lacteal,1
+immunocompetent,1
+myofascia,1
+myofascial,1
+Pillar,1
+Kolar,1
+blastocyst,1
+gastroenteric,1
+pretibial skin,1
+iRRV,2
+Crl,1
+skin grafts,1
+weaners,5
+endocervix,1
+uterine horns,1
+ear pinnae,1
+dmPGE2-treated,1
+mid-abdomen,1
+cranioventral,1
+shigella,1
+stalk,3
+Thiry-Vella,5
+sternal,3
+isolated intestinal,1
+Egg,2
+stomachs jejunums,1
+R.G.,1
+Milk,2
+managent,1
+submandibular,2
+upper spinal,2
+synovium,1
+chinchilla,2
+11-mo,1
+gut biopsy,1
+omasum,1
+colostrum-deprived,1
+small intestinal surface,1
+nonaborted foetuses,1
+gut tissues,2
+arteriovenous,1
+eyeballs,1
+neonatal throat,1
+submaxillary,2
+intralobular,1
+enterovirus,1
+intestinal biopsy,1
+throats,1
+alfalfa,1
+s.c,2
+thoracolumbar,1
+saisonniÃ¨re,1
+Fowl Fowl,1
+Fowl,1
+friable,1
+lung tissue,2
+heart blood,2
+small intestinal wall,1
+alcoholic,1
+tetralogy,1
+crypts,1
+solitary,1
+supraventricular,1
+suckled,1
+lesion-free,1
+neonatal crias,1
+intestinal porcine,1
+sonotubometry,1
+sinonasal microbiome,1
+grippal,2
+hepatopancreas,8
+genital secretions,2
+extravascular,1
+gingivae,1
+osteoarthritic,2
+late-term,1
+cardiomyopathic,2
+guineapigs,1
+multi-organ,1
+trigeminal,3
+coronet,1
+Reduced-Intensity,1
+grafts,1
+shin,1
+mammary secretions,3
+turkey,1
+inguinal,1
+Bud,1
+tibias,1
+foregut,1
+mouthparts,1
+anogenital tract,1
+kittens,1
+brain biopsy,1
+focal intestinal,1
+superficial,2
+sore throat,1
+splenomegaly,1
+Saliva,1
+splayleg,3
+skin layer,2
+cns,1
+Clots,1
+infarcts,1
+subglottis,1
+Egg yolk,1
+powder,2
+syrinx,1
+shawarma,1
+T-V,1
+intestinal juice,1
+pulmonar,1
+pallor,1
+TLOs,1
+P1-P6,1
+knees,2
+bone-,1
+depots,2
+Ileum,1
+hypodermis,1
+luminally,1
+petiole,1
+ganglion,2
+skin oil,1
+sucklings,1
+ciliary body,1
+indistinctly,1
+F.G.,4
+Graft-versus-Host,2
+SCT,1
+semi-firm,1
+cushions,1
+mottled,1
+Endobronchial,1
+CT-guided,1
+precolostral,1
+scapula,3
+cell-types,2
+flanks,1
+ejaculate,1
+ureter,2
+metanephrogenic mesenchyme,1
+trout,1
+esculenta,1
+seed extracts,1
+micro-abscesses,2
+irradiation-induced,1
+pinna,2
+mg/g,1
+seven-day-old piglets,1
+open-heart,1
+peripartum,1
+hoof,1
+Visceral,1
+tibiae,1
+flower buds,1
+Testis,1
+piglet lung,1
+Meissner,1
+autonomic nerves,1
+slaughter,1
+intracranial LD50,1
+parathyroid,1
+tracheobronchial lavage,1
+infraglottic,1
+9-day-old,2
+froth,1
+IAN,3
+intestinal lymphoid tissue,1
+14-day-old,2
+7-day-old,1
+ICU,1
+immunodeficiencies,1
+situado,1
+gastrointestine,1
+tympany,1
+abomasal,2
+midgut digestive,1
+silkworm midgut,1
+zone,1
+Corneal,1
+multi-segmental,1
+auricular,1
+palatine,1
+salads,1
+skin secretions,1
+leptomeninx,2
+pcv,2
+gut lamina,1
+Thorax,1
+Langerhans,2
+thigh,1
+Rectal,2
+preimplantation,1
+pistil,1
+petals,1
+ENS,1
+ectocervix,1
+lingular,1
+ewe-lambs,1
+Pharyngeal swab,1
+oro-pharyngeal swabs,1
+colt,1
+Fasciola,1
+queens,5
+infant lung,1
+gustatory,3
+thymus gland,2
+small intestinal mucosa,1
+genitourinary,1
+glomeruli,1
+perilobular,1
+trabecular,1
+serviceberry,1
+Dystrophic Dogs,1
+effusions,2
+cholecystic,1
+T8 spinal,1
+Gallbladder,1
+gallbladders,2
+embryonic sac,1
+fingerpad,1
+pharyngo-tonsillar,1
+thyroid gland,4
+faecal BRV,1
+tracheal-lung,1
+lymphadenopathies,1
+twigs,1
+bacteria-bearing,1
+"20,471",1
+VGA,1
+intestinal porcine epithelial cell line J2,1
+faecal secretions,1
+smal,1
+Udder,1
+nonmucosal,1
+Plasma,2
+descended,1
+stomatitis/gingivitis,1
+pharyngeal tonsil,3
+Pyoderma,1
+Throat swabs,1
+Bronchoscopy,1
+corse,1
+musculo-skeletal,1
+gut submucosa,2
+escolar,1
+liver-kidney,1
+embryonic chickens,4
+sun-dried roots,1
+trichimerism,1
+tracheal swabs,1
+sarcoids,2
+spinal cervical,1
+Quail,2
+stabilization/improvement,1
+Gut microbiome,1
+sectorial,1
+fetal liver,1
+thymi,1
+intestinal lymphoid tissues,1
+toms,1
+leg wound,1
+Mertolenga,1
+interscapular skin,1
+quail egg,1
+UBG,1
+eggshells,1
+cuticle,1
+perivenous,1
+juveniles,1
+carina,2
+buttresses,1
+necroscopy,1
+Broiler,1
+non-ocular,2
+salmonella,1
+Tuli,2
+silage,2
+anus,1
+vulva,1
+nerves,2
+lymphoid spleen,1
+Tooth,1
+homogenate,1
+intraspleen,1
+ribs,1
+sternum,1
+Buccal,1
+small lungs,1
+shedders,1
+oils,1
+Lymphangiosarcoma,1
+lymphoedema,1
+serosanguineous,2
+thyroids,1
+CCR5+/+,1
+progeroid,1
+ICM,1
+costo,1
+germplasm,1
+lymphnodes,1
+IBK,1
+IBK samples,1
+Celastraceae,1
+conjunctivae,1
+pyogranuloma,1
+spicules,1

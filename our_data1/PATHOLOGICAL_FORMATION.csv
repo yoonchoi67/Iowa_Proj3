@@ -1,0 +1,2311 @@
+PATHOLOGICAL_FORMATION,frequency
+bed,72
+nasal secretions,59
+nasal swabs,134
+femoral head,97
+digestive tract,35
+Res,16
+airway secretions,5
+granulomatous inflammation,8
+posterior intestine,1
+hand,215
+Nasal endoscopy,1
+endoscopy,2
+nasopharyngeal endoscopy,1
+cerebrospinal fluid,72
+pharyngeal,1
+gastrointestinal tract,148
+inflammation,352
+alimentary tract,7
+wound,97
+ethanol-induced,1
+bronchoalveolar lavage,9
+Amniotic Fluid,4
+amniotic fluid,31
+intra-amniotic inflammation,18
+neonatal enteritis,2
+Wounds,1
+wounds,22
+fecal samples,17
+DPO,4
+cranial cruciate,1
+post-exercise,3
+intra-osseous,3
+cardiovascular,76
+Nasal biopsies,1
+intrahepatic bile duct,1
+interstitial lung,1
+transitional structures,1
+smooth transitional,1
+Duchenne Muscular,2
+rete testis,1
+taste,23
+spiral ligament,1
+carinii,6
+Proventricular dilatation,1
+tuberculin,1
+biopsies,1
+Duchenne muscular,21
+gastric fluids,1
+gastritides,1
+pharmacy/general,1
+edema,66
+urogenital tract,10
+spinal cord,92
+CMs,3
+sore throat,8
+imbibed,1
+pup,3
+interlobar helices,1
+CNS encephalomyelitis,1
+biliary pancreatitis,3
+intestinal tracts,7
+biliary cirrhosis,2
+bile duct,1
+small intrahepatic,1
+intestinal lumen,8
+broncho-alveolar duct,1
+pharyngeal samples,2
+in-field,5
+PostgreSQL,1
+granuloma,6
+URT viruses,1
+biopsy samples,2
+nasal swab,54
+alveolar inflammation,1
+pulmonary lesions,28
+LRI,41
+cutaneous lesions,9
+plantar exanthem,1
+hyperpigmented macules,1
+skin biopsies,1
+neural network,11
+intestine sections,1
+pulmonary secretions,1
+small nodules,2
+lobar,3
+Cerebrospinal Fluid,6
+polypoid intraluminal,1
+cerebral cortex,20
+cerebral medullary,1
+Urine,5
+gastrointestinal tissue,1
+endolymphatic sac,6
+endolymphatic sacs,1
+placental intervillous,2
+nasal cavity,34
+transmural pyo-granulomatous,1
+marinus tadpoles,1
+brain sections,1
+nasal congestion,23
+suppurative,2
+fungal agents,3
+alveolar scar,1
+Microbiota,2
+skin lesions,19
+pulmonary surface,1
+nasal septa,1
+faecal samples,20
+membranous labyrinth,1
+cochlear hook-region,1
+cotyledon water,1
+seed coat,1
+meningeal hyperemia,1
+meningeal hemorrhage,1
+nervous,29
+LBM,1
+autonomic nervous,4
+M1s,1
+anal swabs,9
+interstitial pneumonias,2
+Lungs,1
+LRTIs,59
+Pneumocystis jirovecii,25
+tissue lesions,4
+pumpless extracorporeal,2
+adult body,1
+splenomegaly,26
+pulmonary edema,49
+lymphoplasmacytic interstitial,1
+CPG,1
+subcortical white-matter,1
+gray-matter lesions,1
+rectal mucosal tissues,1
+FV-induced splenomegaly,1
+CNS,23
+hepatic aminotransferases,1
+blood-brain barrier,44
+body fluids,25
+nasal inoculations,3
+gastrointestinal organs,1
+renal stone,3
+uterine wall,1
+psoriatic lesions,2
+stones,1
+cardiovascular disease,33
+enteric tract,13
+upper trachea,1
+intestine samples,3
+spinal cords,1
+intestinal lesions,19
+airway mucosal,2
+cystic,14
+intracellular lipid,1
+conjunctiva hyperemia,1
+airway liquid,1
+Tracheal aspirate,1
+subcutaneous immunizations,3
+caecal tonsil,2
+aerodigestive tract,1
+URTS,1
+mucosal secretions,5
+atherosclerotic lesions,11
+globular head,12
+Liver fluke,1
+F. hepatica,5
+spinal canal,2
+erythema,8
+abscesses,7
+erysipelas,1
+heart valves,1
+Paranasal Sinus,1
+Pulmonary Inflammation,1
+thoracic regions,1
+CNS autoimmune,4
+venous thromboembolism,21
+nasopharyngeal secretions,3
+ectasia,1
+URTIs,32
+gastric aspiration,1
+pharyngeal lavage,1
+coronary heart,33
+Nasal secretions,6
+pleural tuberculous,1
+pleural effusions,9
+tuberculous pleural,2
+pseudomembranous colitis,1
+watery,53
+Airway protease/antiprotease,1
+cochlear structures,1
+intracellular fat,1
+genital warts,1
+endobronchial biopsies,1
+intestinal coccidial,1
+gastroenteric disease,2
+thrush,2
+oral mucosal lesions,2
+Pneumocystis,24
+skeletal dysplasia,3
+gastrointestinal lesions,2
+ectodermal organ,2
+Pleural Effusion,1
+herpetic keratitis,4
+cerebral malacia,1
+porencephaly,1
+Cystic,7
+small intestinal,13
+infection-dependent lymphohistiocytic,1
+kidney lesions,3
+anogenital excreta,1
+ciliary dyskinesia,6
+nasal brushings,1
+ciliary ultrastructural,2
+Pulmonary structures,1
+upper abdominal,1
+granulomatous lymphadenitis,2
+anuric renal,1
+acute gastrointestinal,1
+retinal lesions,2
+Foot,6
+NPSs,2
+NPS samples,2
+intestinal Peyerâs,1
+palate,1
+embryonic palate,1
+Oral lesions,1
+cerebrovascular disease,2
+Biliary Cirrhosis,2
+skin layers,1
+T2/FLAIR,1
+muscular dystrophies,2
+Hepatic Deficiency,1
+skin barrier,2
+nasal sinus,4
+sublingual mucosal,1
+body effusions,1
+pulmonary infiltrate,7
+alveolar eosinophilia,1
+hindgut lumen,1
+intestinal fluid,4
+poult enteritis,4
+Renal insufficiency,1
+post-infarction,1
+CNS inflammation,12
+airway tract,2
+pulmonary emphysema,2
+percentiles,1
+SAON,4
+intestinal microbial,8
+FCGS,5
+thoracic cavity,3
+laissez faire,1
+seminal fluids,1
+nasal sprays,2
+nasal wash,1
+aroma,1
+Femoral Head,7
+flaccid intestines,2
+Epithelial lesions,1
+interstitial nephritis,4
+Neuromyelitis optica,1
+optic neuritis,9
+colonic fluids,1
+Cystic Fibrosis,14
+Cystic fibrosis,1
+solid organ,34
+cardiac silhouette,1
+airway inflammation,7
+sputum specimens,12
+intestinal samples,19
+gastro-intestinal tract,3
+Nasal swab,2
+gastric cecum,1
+oedema,10
+intestinal mucosal,15
+body secretions,1
+nasal polyps,14
+salivary gland,6
+CNS),3
+intracranial biopsy,1
+Lesions,6
+multi-organ lesions,1
+intestinal tract,51
+Oral corticosteroid,1
+intestinal tissue,2
+Duchenne muscular dystrophy,2
+rectal swabs,23
+lesions,27
+Harbor,2
+subpleural consolidations,2
+flu-,1
+thrombus,10
+airspace nodules,3
+interlobular septal,21
+Pneumocystis carinii,8
+RRV-type lesions,1
+lymphohistiocytic interstitial,2
+caseous lymphadenitis,1
+Tympanic Temperature,1
+lymphoid organs,2
+interstitial pneumonia,1
+EVD,247
+pharyngeal swabs,12
+intestinal ischemia-reperfusion,1
+hypopharyngeal gland,1
+hypopharyngeal glands,1
+45â59,1
+atherosclerotic cardiovascular,2
+emphysema,19
+intra-pulmonary piperacillin,1
+Pulmonary piperacillin,1
+Nose swabs,1
+CIE bladders,3
+watery yellowish,2
+mucus layer,6
+sweat chloride,3
+EVD):,2
+IFC,1
+pons,3
+intestinal microbiota,37
+atrial natriuretic,1
+neonatal dairy calf,2
+neonatal dairy,10
+F. tompkinsii,1
+suppurative necrotizing,1
+endometritis,2
+thrombotic complications,2
+eosinophilic lung,3
+endobronchial suppuration,1
+circulatory failure,5
+Fork,1
+Skin biopsies,1
+osteonecrotic lesions,2
+single-pathogen,1
+extracorporeal shockwave,1
+eosinophilic enteritis,2
+emphysematous,2
+tumor-like Echinococcus,1
+exhaled aerosol,1
+thoracic,12
+Pneumocystis jiroveci,5
+stomach glands,1
+ulcerative,4
+nodular dermatitis,1
+nodular lesions,4
+intestinal LPS,1
+pars plana,1
+intra-tubular concrements,1
+eosinophilic inflammation,1
+whole-body,8
+endocytic-targeting,1
+post-natal,2
+cerebrospinal fluids,4
+Î±1-AT Lung,1
+centrilobular nodules,6
+small airway,3
+LMV-resistant,1
+parietal lobes,1
+neonatal oxygen,1
+nasopharyngeal samples,3
+intestinal epithelia,4
+EVD patients,2
+lacrimal fluid,1
+gut barrier,1
+tracheal ciliary,1
+eHealth,1
+glomerular lesions,2
+genital tract,13
+nasal spray,2
+intestinal lesion,3
+intestinal villus,3
+crypt hyperplasia,3
+extra-pulmonary organs,1
+mammary gland,8
+tracheal lesions,3
+pancreatitis,5
+pseudocyst,1
+tracheal secretions,3
+gastrointestinal endoscope,3
+gastrointestinal endoscopy,10
+Bed,8
+pulmonary infiltrates,12
+urinary tract,11
+UTIs,2
+intravascular catheters,1
+gut-associated organs,1
+fat embolism,1
+hepatic malondialdehyde,1
+hepatic inflammation,11
+nasal exudate,1
+nasal cannula,20
+caecal tonsils,3
+celiac peptides,1
+gluten-free,1
+chicks,3
+hyperplastic endometrium,2
+extrapulmonary organ,2
+extrapumonary organ,1
+egg samples,1
+solid dispersions,2
+vesicular lesions,3
+hoof lesions,1
+scabs,1
+abdominal muscle,4
+nasal samples,19
+nodular consolidations,1
+body sites,1
+ileal microbiota,1
+intestinal infectious,2
+salivary components,1
+joint erythema,1
+intestinal ischemia/reperfusion,1
+intestinal I/R,2
+Salivary Glands,2
+parasitic lesions,1
+ileal commensal,1
+DSS-induced colitis,2
+endotracheal aspirate,4
+cavitary lesions,2
+Renal ENaC,1
+Kidney Biopsy,1
+endocrine,20
+pre-eclampsia,3
+immune-chromatographic,1
+Nasopharyngeal secretions,3
+hepatic ischemia/reperfusion,1
+Hepatic ischemia/reperfusion,1
+Inflammation,2
+intestinal pathogens,1
+Tracheal lesions,2
+tracheal samples,5
+Wound,6
+airway samples,4
+upper airway,3
+knee joints,1
+catheter-related bloodstream,2
+pulmonary microembolism,1
+Intestinal microbiota,2
+solitary nodules,1
+tear fluid,1
+fetal brain,2
+sepsis-like,7
+hypersensitive-type lung,2
+MoM hip,1
+intestinal microbiome,3
+burns,1
+venous leg ulcers,1
+ulcers,5
+leg ulcers,2
+neonatal wound,1
+CFRB,3
+chest infiltrates,1
+exocrine pancreas,1
+gastroenteric pathogen,1
+hind paw,1
+intestinal pathology,2
+extra-intestinal organs,1
+broncho-alveolar lavages,1
+erosions,3
+buccal cavity,1
+small intestine,17
+Triaditis,1
+lumpy skin,2
+post-trauma,1
+cardiac arteriolitis,1
+intestinal digestive,1
+intestinal nutrients,1
+Nasal Microbiota,1
+cerebral amyloid,1
+CAAs,8
+per-rectal samples,1
+intrahepatic fat,1
+neonatal septicemia,1
+spark,6
+parotid salivary gland,1
+parotid glands,2
+mucociliary clearance,9
+ventral neck,3
+bloody gastro-intestinal,1
+extra oxygen,3
+5.3Â±3.1,1
+Oropharyngeal swabs,4
+pharyngeal inflammation,2
+orchitis,2
+LRDs,1
+UC,26
+small-vessel leukocytoclastic,1
+target-like purpuric,1
+extremity swelling,1
+Harderian gland,5
+pulmonary oedema,11
+intra-ventricular,1
+immuno-suppressed,1
+acute watery,1
+optic chiasm,2
+intestinal mucosal tissue,1
+Nasopharyngeal aspirate,6
+nodular skin,1
+skin nodules,2
+ulcerative lesions,1
+peritoneal effusions,4
+spinal anesthesia,1
+eczema,10
+cystic fibrosis,3
+Pulmonary lesions,5
+F. hepatica glycans,2
+embryonic lethal,2
+sores,5
+pharyngeal exudate,2
+renal ectopia,1
+bloody nasal,1
+gastrointestinal infections,2
+Bronchoalveolar lavage,8
+fungal microbes,1
+organ transplants,4
+spinal muscular,3
+intestinal biome,2
+F.,18
+F. Mojoli,1
+F. Daly,2
+F. Ampatzidou,1
+jugular central venous catheter,1
+arterial elastance,2
+gastrointestinal feeding,1
+nasogastric enteral,1
+F. Turani,1
+kidney transplantations,1
+nasal high,3
+chest wall,6
+F. Asota,1
+P260,1
+FernÃ¡ndez,1
+subcutaneous glargine,1
+cerebral oxygen,1
+intracerebral hemorrhage,6
+subarachnoid,4
+aneurysmal subarachnoid,5
+F. Ortolano,1
+gunshot wounds,1
+corticosteroid insufficiency,1
+otopathogen,2
+salivary glands,13
+Femoral head,2
+open-mouth,1
+bronchopleural fistulae,1
+chest,3
+cerebral hemispheres,2
+SNS,1
+ulcerative colitis,10
+UC patients,2
+renal biopsy,5
+foramen magnum,2
+perivascular pyogranulomatous,2
+Biopsy Salivary,1
+Non-cystic fibrosis,1
+gastrointestinal tracts,14
+mucus Alcohol-based,1
+epidermal hyperplasia,4
+pleural thickening,1
+CNS pathology,3
+renal tubular,3
+salt-induced renal,1
+pre-HCT,3
+trachea swabs,1
+Ï(2)(3)=413.7,1
+intracranial lipopolysaccharide,1
+neonatal nursing,1
+intestinal immune,2
+pulmonary nodules,4
+peribronchiolar regions,1
+tracheal cuff,5
+hepatic lipid,1
+Gut Microbiota,4
+U-bends,1
+Faecal samples,5
+bloody,10
+digestive tracts,1
+nodular panniculitis,1
+subcutaneous nodules,1
+intraabdominal nodules,1
+granulomatous fatty tissue,1
+infantâs head,1
+anogenital warts,2
+barotrauma,2
+powder,6
+Mask,5
+cerebral peduncle,1
+sentinel network,2
+extrauterine,1
+subcutaneous masses,1
+F. pyrropus,1
+extra beds,1
+intestinal mucus,1
+bronchopulmonary dysplasia,14
+hepatic samples,1
+necrotic lesions,1
+ear fluids,1
+rejection-like lesions,1
+Vesicular exanthema,1
+Mucosal Cervicovaginal,1
+alimentary samples,4
+benign nevi,2
+gas-filled microbubbles,1
+ileal pouch-anal,1
+hematoma,12
+organ sections,3
+scar,1
+paranasal sinus,6
+compartmental structures,1
+intestinal tissues,2
+abdominal lesions,1
+iris sphincter,1
+parasympathetic,2
+neonatal diarrheic,3
+genital lesions,1
+Cancer-Induced Muscle,1
+gastrointestinal inflammation,3
+lung allograft,16
+gastrointestinal microbiota,4
+Parasitic Agents,1
+Microbiota epitope,1
+brain edema,1
+LRIs,1
+Junipers phoenicea,1
+ataxia-telangiectasia,3
+skeletal muscles,1
+I/RI,2
+thrombotic,1
+urogenital organ,1
+Pulmonary Complications,3
+longtail glasswing butterfly,1
+three-chamber,1
+MIA-induced,1
+genitourinary tracts,3
+gastrointestinal secretions,1
+epididymo-orchitis,1
+testicular immunopathologies,1
+Nasal samples,5
+groin skin,1
+mHealth,3
+Lactation,1
+gastrointestinal barrier,3
+gastro-enteric tract,1
+Oral edible,1
+bronchovascular lung,1
+prefrontal cortex,11
+wound edge,1
+5-year-olds,1
+stoma,4
+Otic,1
+abomasal bloat,4
+infundibulum architecture,1
+duct ectasia,1
+cardiac glycosides,4
+gallbladder oedema,2
+corneal oedema,2
+tracheal lesion,2
+airway proteomes,2
+AMY1A,1
+ileal digesta,1
+longissimus dorsi,1
+tonsillar hyperplasia,1
+embryonated hen,1
+cutaneous nodule,3
+non-pruritic erythematous,1
+sinonasal cavity,1
+cerebral,2
+plantar fasciitis,1
+plantar fascia,1
+placental samples,2
+Nasopharyngeal swab,1
+ceacal tonsil,1
+peri-orbital,1
+pulmonary veno-occlusive,1
+laryngeal edema,2
+edible oils,1
+biliary tract,1
+carotid plaques,1
+pre-term,3
+pre-term labor,2
+airway obstructions,2
+Bunyavirales,1
+mammary glands,3
+nasopharyngeal interface,1
+nasal lavage,7
+oronasal secretions,2
+carious lesions,1
+jaundiced infants,1
+CNS sub-panel,1
+selfâlimiting,1
+gastric tissue,1
+Paralichthys olivaceus,1
+Onchocerca volvulus,3
+Nasal Secretions,3
+nasal dipsticks,1
+nasal endoscopy,3
+anorectal signet,1
+leptomeningeal carcinomatosis,1
+guttural pouch,1
+subcutaneous emphysema,9
+CNS immune,2
+Nasopharyngeal Microbiota,3
+gastrointestinal tissues,4
+scrotal skin,1
+sell-limiting,1
+aspirate fluid,2
+temporadas,1
+intestinal infections,1
+pulmonary interstitial,1
+intestinal wall,9
+atrophied intestinal villi,1
+testicular lesions,1
+Cranial nerve palsies,1
+dysphagia,1
+pleural-based consolidations,1
+VAA,2
+intracellular poly(I,1
+magnum regions,1
+Nasopharyngeal swabs,2
+nasopharyngeal swabs,3
+AUFs,1
+mucus barrier,6
+jejunal biopsies,2
+intestinal microflora,10
+cerebellar lesions,1
+trachea,1
+Adrenal insufficiency,2
+adrenal insufficiency,1
+tongue body,1
+soft-shelled,1
+nasal cytology,1
+nasopharyngeal flora,1
+nasopharynx samples,1
+methylprednisolone/prednisolone renal,1
+bronchiolar lesions,1
+Airway secretions,1
+gut-associated viruses,1
+infant formula,2
+Edema,4
+ulcerations,1
+intestine slices,1
+SteroidâInduced Femoral Head Necrosis,1
+steroidâinduced femoral head,1
+Nasal microbiota,1
+vestibule sensorimotor,1
+gastrointestinal nutraceuticals,1
+rectal swab,4
+inner-body,4
+ocular lesions,3
+nasal respiratory,3
+mucus metaplasia,1
+myocardial infarctions,3
+non-cirrhotic portal,1
+non-cirrhotic intrahepatic,1
+intrahepatic portal vein,1
+neonatal vaccines,1
+Cardiac Tamponade,1
+Cardiac tamponade,1
+retroperitoneal eosinophilic,1
+caudodorsal abdomen,1
+sublumbar retroperitoneal,1
+urethral stricture,3
+MeGN,1
+renal dysplasia,1
+rectal secretions,1
+Nasopharyngeal/oropharyngeal swabs,1
+jugular puncture,1
+cardiac magnetic,1
+intestinal walls,1
+nondry infectious,1
+vaginal swabs,9
+roe deers,1
+Neural network,1
+dromedary fetus,2
+pulmonary microbiome,2
+adrenal glands,5
+pyogranulomatous lesions,1
+solitary carnivore,1
+extremity wounds,1
+CD26(+/+,1
+intestine epithelia,1
+CNS) tissues,4
+Hematoma,1
+pre-wean,1
+venooclusive disease,1
+Non-alcoholic fatty,1
+TSF,5
+gastrointestinal inflections,1
+Intestinal dysbiosis,1
+genitourinary tract,2
+intestinal immune network,1
+tonsillar samples,1
+cardiopulmonary diseased,1
+nasal cytokine,1
+pharyngeal flocked,1
+neural networks,3
+gut pathogens,1
+GIT,1
+GIT microbiome,1
+nasal microbiota,2
+cardiovascular disorders,1
+Intestinal Colonization,1
+inflow air,1
+retropharyngeal abscess,2
+Palatine tonsillar,1
+oropharyngeal swab,3
+cranial mediastinal,2
+intestinal inflammation,14
+EVD survivors,5
+EVD survivor-centred,1
+EVD survivorsâ,1
+ventilator care,1
+Pulmonary interstitial,1
+noncardiogenic circulatory,1
+cutaneous fibroses,1
+chest tube,4
+foreign-body granuloma,1
+alveolar emphysema,1
+tidal expiratory,2
+intestinal flora,7
+Biliary Atresia,2
+Biliary atresia,3
+intrahepatic bile,1
+noncystic fibrosis,1
+transudate effusions,1
+vaginal samples,1
+intestine mucosal immune,1
+Wirksamkeit von,1
+posterior pharyngeal,1
+hilar lymphadenopathy,1
+hilar adenopathy,1
+body fluid microbiomes,1
+Pulmonary Oedema,1
+intraperitoneal inoculations,1
+thrombotic vasculitis,2
+Vascular lesions,2
+cerebral vasculitis,1
+antero-ventral brain,1
+adult dairy,1
+surgically-placed duodenal,1
+duodenal catheter,1
+abdominal organs,4
+Intestinal lesions,3
+submaxillary gland,1
+intravenous inoculations,1
+lacrimal glands,5
+abdominal fluids,1
+club-shaped,1
+brain emulsions,1
+granular projections,1
+tongue-shaped,2
+gastric whey,1
+granulomatous lesions,7
+oropharyngeal cavities,1
+gut sections,1
+amniotic cavity,3
+cecal tonsils,2
+virus-associated lesions,1
+cerebal cortex,1
+mucosal end-organ,1
+WSSV-infected shrimp,1
+Fasciola hepatica,2
+mucosal lesions,3
+infant parasympathetic,2
+nasal cannulas,1
+olfactory lobe,1
+Pancreatic digestive,1
+endocrine part,1
+endomyocardial biopsy,1
+fungal pathogens,3
+Cholestatic Liver,1
+extrahepaticbiliary duct,1
+Nasopharyngeal aspiration,1
+paranasal radiographs,1
+Mammary gland,2
+FIC-disability,1
+Pituitary biopsy,1
+pituitary biopsy,1
+hypothalamic-pituitary,1
+thoracolumbar,1
+cardiovascular medicine,1
+tissue renin-angiotensin,1
+enteric nervous,3
+GDD,4
+cutaneous vasculitis,1
+wound surface,1
+non-healing wounds,1
+somni-induced,1
+hepatic abscesses,1
+paranasal sinuses,11
+Renal ischemia-reperfusion,1
+nasal immunizations,1
+pulmonary barotrauma,2
+extracerebral,1
+invaded lesions,1
+intracerebral cryptococcal,1
+nephromegaly,2
+bloody diarrheic,1
+nodular pyogranulomatous,2
+LPM,1
+inlet aerosol,1
+gastroenteric tracts,1
+intrahepatic vascular,1
+extra C-terminal,2
+Res 40:W199â204,1
+small-vessel,2
+shoulders,2
+pulmonary interstitial inflammation,1
+dermal lesions,1
+Gut microbiota,5
+very-low-birth-weight infant,1
+very-low-birth-weight infants,1
+perivascular lesions,1
+trigeminal ganglia,2
+Trigeminal ganglia,1
+meningococcus-induced vascular,1
+valvular heart,3
+non-gastrointestinal infections,1
+intestinal inflammatory,1
+intestinal barrier,8
+nasal vaccines,3
+Face Mask,1
+BPD,6
+multi-vessel lesions,1
+pre-term newborns,1
+fiberoptic laryngoscopy,1
+hypopharyngeal lesion,1
+tumor-like lesions,1
+fibrinous exudates,2
+pulmonary infarcts,1
+acute fibrinous,1
+intestinal biopsies,2
+Muscle biopsy,1
+neuromuscular blockers,1
+nodular shadow,1
+digestive organ,2
+gizzard weight,1
+Tracheal swabs,1
+Intestinal samples,1
+necrotic enteritis,4
+gizzard samples,1
+thin-walled proventriculus,1
+gland papillary,1
+ventral prostate,1
+bronchial wall thickenings,1
+intestinal segments,4
+bronchoscopy,3
+pulmonary parenchyma,3
+pulmonary vasodilator,1
+URT samples,2
+intra-abdominal infections,2
+extrapulmonary samples,1
+auditory,3
+scleroderma patientsâ,1
+CasD1-specific,1
+cavity structures,1
+aspirate samples,2
+interstitial pneumonitis,4
+duodenal mucosal,2
+duodenal biopsy,4
+intraspinal injection,3
+sero-response,1
+cardiac inflammation,3
+Nasal Fluid,1
+carcass weight,1
+neoplastic glands,1
+intestinal mucosa(1,1
+papillary muscles,2
+jugular blood,1
+brainstem lesions,1
+intraepithelial precursor,1
+trigeminal fibers,1
+nasal mucus,1
+body fat,1
+bloodstained nasal,1
+serous cavities,1
+thymus glands,1
+carotid body,2
+fiberoptic bronchoscopy,5
+intestinal helminth,1
+Pulmonary Complications Lung,1
+non-classic,1
+Rosa,1
+M(â1)s(â1,1
+Ulk1/Unc51.1,1
+biliary tree,2
+ventral ectodermal,1
+intracellular pathogens,2
+vestibular aqueduct,1
+cochlear thyroid,1
+tympanic forehead skin,1
+lobular inflammation,1
+Nasopharyngeal Lactobacillus,1
+Vitreous samples,1
+HPV-related disease,1
+Airway Secretions,1
+neonatal lung,1
+Tear,2
+airway-lining fluid,1
+cystic fibrosisâin,1
+intra-amniotic microbial,1
+cochlear sections,1
+epithelial hyperplasia,3
+nasal decongestants,6
+nasal decongestant,2
+Nasopharyngeal Secretions,1
+intrauterine HCMV,1
+preâhospital,3
+submucosal edema,1
+DSS-induced intestinal,1
+insult(1,1
+adenoid pad,1
+posterior nasal cavity,1
+cardiopulmonary patient,1
+Cardiopulmonary,3
+watery eyes,2
+brain abscesses,1
+cerebral abscesses,1
+exocrine pancreatic,1
+CNS demyelinating,1
+gastric acid,2
+Pneumocystis murina,2
+Pneumocystis lung,1
+vaginal IgA,1
+subfornical organ,1
+brain structures,9
+Bloodstream,1
+nasal cavities,1
+CNS lesions,10
+Pulmonary pathology,1
+pneumonia-like lesions,1
+unsegmented,1
+iCMP,2
+Jejunal architecture,1
+sweat gland,1
+hepatic inflammatory,1
+caudate,1
+biliary atresia,3
+skin prick,4
+circulatory insufficiency,1
+CCM,2
+cerebral spinal,2
+pituitary gonadotrophs,1
+xenobiotic-induced,2
+oculopharyngeal muscular,1
+Gel,2
+endocrine organs,1
+cerebral peduncles,1
+pulmonary toilet,1
+cardiovascular system,3
+salmon,1
+gastrointestinal p<0.0001,1
+CNS demyelinating lesions,1
+conjunctival scrapings,1
+dystrophic dogs,1
+LRTD,1
+interferon-Î³,4
+skin conditioners,1
+tail needle,1
+nasal aspirate,5
+digestive gland,1
+Nasal Mucosal,1
+nasal mucosal,4
+vestibule,1
+turbinate head,1
+nasal airflow,1
+coronary vasospasm,1
+sublingual hay,1
+pulmonary surfactant,3
+premalignant lesions,1
+shock-like,1
+sympathetic outflow,1
+intracellular structures,1
+Transbronchial biopsies,1
+pulmonary MÏ,1
+diet-induced,3
+cranial osteomyelitis,1
+Cardiopulmonary Disease,1
+hepatic granuloma,2
+solid lesions,2
+gut dysbioses,1
+liver allograft,1
+stomach aspirate,1
+anal swab,1
+periventricular regions,2
+intracerebral ventricular,1
+CNS injuries,2
+perivascular cuffing,1
+pulmonary afferent fibers,1
+lysolecithin-induced,1
+nasal orifice,1
+P9,1
+lacerations,2
+mucus secretions,1
+Precursor Lesions,1
+precursor lesions,1
+nasal turbinate,5
+Cerebral,2
+cervix Cervical neoplastic lesions,1
+brain lesions,1
+pulmonary coronavirus,1
+anogenital tract,1
+papular acrodermatitis,1
+Jejunal Crypt,1
+intrahepatic environment,1
+CNS inhabitants,1
+pulmonary inflammation,3
+renal transplants,1
+intestinal viral,1
+CNS viral,2
+CNS viral disease,1
+Tracheal Microbiota,1
+transbronchial pulmonary,1
+Airway Hyperreactivity,1
+neurogenic detrusor,1
+intestinal resectional,1
+fungal toxin,1
+EVD care,2
+inner gloves,4
+biliary glycoproteins,1
+immune network,1
+pulmonary anthrax,1
+renal magnesium,1
+vascular beds,1
+PRE,2
+Pulmonary sections,1
+cardiopulmonary resuscitation,2
+biliary cholangiopathy,1
+injury-induced,1
+injury-induced inflammation.âWang,1
+postprandial fat,1
+Plaques,3
+scissile-site,1
+papilledema,1
+intracranial space-occupying,1
+intestinal lymphatics,1
+focal lesions,1
+NTS samples for,1
+NTS samples,1
+lung-brain,2
+endotoxin-induced ALI,2
+gastroesophageal reflux,3
+hepatic microcirculatory,2
+gut ischemia/reperfusion,1
+thoracic spinal,3
+membranous structures,1
+ciliary beat,1
+Fiberoptic bronchoscopy,1
+parotid gland,1
+atherosclerotic plaques,1
+pre-pulmonary-fibrosis-like lesions,1
+frontal cortex,1
+extrahepatic,1
+fetus matures,1
+acute intestinal,4
+inner lipoyl,1
+mucosal inflammation,1
+ÎT,1
+sgmRNA7,1
+biopsy sections,1
+extra Î±-helical,1
+nasal lesions,1
+skin biopsy,1
+pharyngeal swab,15
+pharyngeal secretions,1
+posterior wall,1
+periventricular encephalitis,1
+aortic sinus,1
+FHAVN,1
+synovial sarcoma,1
+EVD PPE,7
+hepatic,3
+lymphoid organ,1
+Amniotic fluid,2
+joint-specific,1
+sHRPs,1
+Intestinal Pathogens,1
+cerebral CD4(+,1
+kidney transplants,7
+cecal tonsil,1
+intrahepatic injection,1
+foot lesions,3
+oxygen-induced,1
+urine,1
+Gen.,5
+Centers,1
+splenial lesion,3
+lamivudine-resistant,1
+nasal biopsies,1
+cystic structures,1
+HRV-associated,1
+microcavitary lesions,2
+urethral valves,1
+detrusor,1
+infant respiratory,3
+near-term infants,1
+pancreaticoduodenal lymphadenopathy,1
+pulmonary vasculitis,1
+tubulo-interstitial renal,1
+body cavity,2
+crevicular fluids,1
+ileal enteroids,1
+intestinal enteroid,1
+kidney biopsies,1
+renal allograft,2
+CNS inflammatory demyelination,1
+Pulmonary surfactant,1
+club-shaped projections,1
+gastrointestinal microbiome,1
+Cardiovascular Disease,1
+HPV-associated lesions,2
+perl,1
+cranial abdominal,1
+mesenteric lymphadenopathy,1
+pancreatic biopsies,1
+mesenteric steatitis,1
+suppurative pancreatitis,1
+neonatal secretory,1
+post-virus,1
+cutaneous,1
+eosinophilic esophagitis,1
+nasal inflammation,1
+eosinophilic nasal polyps,1
+Nasal Polyps,2
+Gastric Erosions,1
+flaky tail,1
+Airway Inflammation,3
+Culprit,1
+Airway Hyperresponsiveness,1
+Jongrok,1
+A597,1
+odontogenic abscesses,1
+Ear scrapings,1
+perinasal dermatitis,1
+BioSamplers,1
+mandibular abscess,1
+posterior limbs,1
+swollen sinuses,1
+spatioâtemporal,1
+Pneumonien,3
+antebrachial skin,1
+purulent inflammations,1
+duodenal ulcers,1
+flaky cloudy,2
+nodular shadows,1
+Pulmonary Infiltrate,1
+Nycteribiidae,1
+solid lipid nanoparticles,1
+BSCB,2
+non-cystic fibrosis,1
+neonatal ICU,2
+Nasal-pharyngeal secretions,2
+Vaginal Cytology,1
+vaginal cytology,4
+Berechnungsmodells bestimmt,1
+cardiovascular pathology,1
+kidney beans,1
+strottenhoofd,1
+small-vessel vasculitis,1
+large-vessel vasculitis,1
+sarcoid vasculitis,1
+blunt chest,1
+frontal sinus,3
+polyps,1
+intestinal ulcers,1
+TCoV-induced,1
+CNS long,1
+inefficiÃ«nte ventilatie,1
+knee osteo-arthritis,1
+vaker ziek,1
+nasal oxygen,4
+cardiovascular organs,1
+purulent respiratory,1
+watery nasal,1
+gastrointestinal mucositis,1
+alveolar ducts,1
+body fluid,1
+Intestinal parasitic,1
+arteria temporalis,2
+Hepatic infections,1
+Pulmonary contusion,1
+gastric ulcers,1
+meningeal worm,2
+heart-lung,2
+solid lipid,2
+Paranasal Sinuses,1
+chorioamnionitis,5
+S1N330,1
+inlet area,1
+transbronchial biopsy,1
+crush,1
+chest wall indrawingâ.,1
+muscular soreness,2
+conjunctival congestion,4
+skin maculopapules,1
+solid wastes,1
+subperiosteal abscess,1
+intracranial abscesses,1
+nasal saline,2
+intestinal biopsy material,1
+intraocular lenses,1
+glaucoma implants,1
+acral erythema,1
+abdominal cavity,5
+gastro-oesophageal reflux,1
+posterior nasal,1
+oronasal mask,1
+shock-like multiorgan,1
+nicht bereits,1
+Pulmonary Mucosal Immunology,1
+thoracic air,1
+particular network,1
+extracorporeal organ,1
+insular host,1
+anterior cruciate,1
+patellar ligament,1
+Hepatic Complications,1
+hepatic veno-occlusive,1
+joint posterior,1
+above-ground,1
+epidermal layers,1
+Peritonsillar Abscess,1
+peritonsillar abscess,3
+Cartilago thyroideus,1
+sphenoid sinusitis,1
+solid copper,1
+bacillary pulmonary,1
+typisch,1
+absorbed lesions,1
+extracorporeal membranous,1
+tracheobronchial tree,1
+physiologyâNew,1
+jejunal villuscrypt,1
+floppy disks,1
+cerebral leptomeninges,1
+hepatic lesions,6
+nasal mucociliary,2
+maxillo-,1
+intestinal duck,1
+brain extracts,1
+subcutaneous cocaine,1
+airway inflammatory,2
+Lymphocytic sialadenitis,1
+labial salivary,1
+interdigital space,1
+vascular lesions,4
+ischemia-reperfusion,1
+intestinal antibody,3
+Ileal intraepithelial,1
+serous body fluids,1
+intraretinal immune,1
+granular layer,1
+testicular masses,1
+profuse watery,1
+oral lesions,1
+synovial hyperplasia,1
+cerebellar cortex,1
+cerebral edema,2
+Hepatic inflammation,2
+salivary serous,1
+exocrine glands,2
+Airway mucus,1
+spinal anaesthesia,4
+biliary ducts,1
+periductal oedema,1
+extraheptic ducts,1
+interstitial pancreatitis,1
+hypopyon,1
+biliary casts,1
+Jejunal segments,1
+serous neutrophilic,1
+caudal lung,1
+Alveolar oedema,1
+grain intake,1
+colonic stricture,1
+extracorporeal lungs,1
+pelvic floor,1
+anal sphincters,1
+ectodermal dysplasia,3
+ureteral stricture,1
+LUN,1
+Placental HSV,1
+CNS virus,2
+ureteral wall components,1
+ureteral wall,1
+ulcerative jejunitis,1
+SAON lesions,1
+interfollicular regions,1
+vesicular skin,1
+lingual lipase,1
+peritonsillar abscesses,2
+obstÃ¡culo,1
+embolia pulmonar,1
+estimular,1
+fibrinous pleuritis,1
+conjunctival swabs,2
+pharyngeal mucous,1
+gastrointestinal nematode,2
+thoracoabdominal aortic,2
+pulmonary heart,1
+gastric mucous,1
+NAFLD,3
+exocrine secretions,2
+cystic keratinizing epithelioma,1
+arachnoid,1
+intervertebral disc,2
+conjunctival secretions,6
+nodular pulmonary,1
+Brain abscess,1
+skin puncture,1
+Bone mineral,1
+femoral neck,3
+coronary vasculitis,1
+insular cortex,1
+pulmonary samples,3
+oronasal swabs,1
+posterior desarrollo,1
+uterine cavity,1
+CAP inpatients,1
+Backcalculating,1
+pulmonary lobes,1
+ventricular systolic,1
+extrapulmonary lesions,1
+pulmonary parenchymal,1
+posterior part,1
+posterior lung,1
+transhepatic cholangial,1
+transhepatic cholecyst,1
+neonatal asphyxia,1
+oral mucosal,2
+intralobular septal,1
+pulmonary cavity,2
+chorionic hemangioma,2
+digestive systemic,1
+pulmonary ground-glass,2
+digestive endoscopy,2
+chest CT,2
+small nodular,2
+nodular ground-glass,1
+solid shadow,1
+watery nose,1
+gastric tube,1
+lacrimal gland,1
+Fournier,2
+skin-structure,2
+nasal masses,1
+egg powder,3
+xxv+457,1
+Hashimoto,2
+Nasal lesions,1
+intranasal frontal,1
+goat kid,1
+pancreatic hepatic,1
+yellowtail,1
+Biliary Tract,3
+Hepatic Disorders,2
+stomach ulcers,1
+mineral supplements,2
+F. G-S.,1
+salad,1
+small bronchi,1
+gland ducts,1
+bronchial biopsy,1
+vaginal cavity,1
+extra-pulmonary,2
+Lymphadenopathy,1
+Fasciola spp,1
+trachea bronchi,1
+extramural aeromicrobiology,1
+sublingual glands,1
+erythema infectiosum,1
+gut-associated mucosal immune,1
+orbital wall,1
+visceral organ,1
+berry fruit,1
+well-developed,1
+Intestinal Microbiota,2
+egg laying,1
+intestinal lymphoproliferative,1
+emunctory elements,1
+nasal route,1
+intraalveolar fibrin,2
+rectal nanomicrobicides,1
+contractures,1
+pulmonary eosinophilia,2
+small-intestinal mucosal,1
+pallor,4
+parenchymal pulmonary,1
+nasal sinuses,3
+Salivary secretions,1
+bullous lesions,1
+pleural cavity,2
+glandular stomach,1
+toxicoinformatic,1
+Alimentary Tract,3
+velum palati,1
+muscular legs,1
+solid bottoms,1
+VMD,1
+Pulmonary Surfactant,1
+cardiovascular lesions,1
+High-flow nasal-oxygenation-assisted,1
+entraver,1
+intestinal pseudo-obstruction,2
+suprarenal area,1
+ileal Peyerâs,2
+intestinal nematode,2
+posterior small intestine,1
+full-term infant,1
+placental infections-immunohistochemistry,1
+pulmonary hilum,1
+caverns,1
+intestinal electrolyte,1
+gastrointestinal mucosal,2
+pneumopathies,7
+problema derivado,1
+propia hospitalizaciÃ³n,1
+trasplante,3
+kidney stone,1
+varices,1
+pulmonar producida,1
+sÃ­ndrome febril,1
+limitan casi,1
+sÃ­ndrome cardiovascular,1
+peri-tonsillar area,1
+extrapulmonar dificultando,1
+Nodular lesions,1
+bronchial inflammation,1
+externa difusa,1
+Tracheobronchial masses,1
+mediastinal adenopathy,1
+digestive organs,1
+erythematous angina,1
+especialidad,1
+interlobular septa,1
+cardiovascular care,2
+pulmonary emboli,1
+visceral lesions,1
+granulomatous colitis,1
+passer,1
+pauci,3
+pulmonary antibacterial,1
+Communications,1
+post-transplant renal,1
+obstructions,1
+sympathetic nervous,1
+cutaneous crease,1
+calibres avec,1
+plusieurs agents,1
+intestinal biopsy,1
+rib eye,1
+intestinal bullae,1
+jirovecii samples,1
+leisions,1
+pulmonar,1
+identificaciÃ³n,2
+secundarios,1
+siguen,1
+neoplastica,1
+simultaneamente,1
+PAVM,1
+donne gravide,1
+suscettibilitÃ  ,1
+mucose e,1
+sinusites sont,1
+sinusites,2
+induced-cirrus,1
+sewage sludge,1
+endomyocardial biopsies,1
+posterior oropharyngeal,1
+afferent nerves,1
+frecuencias elevadas,1
+presentazione,1
+enzimas,1
+retinal dysplasia,2
+nodular dermatofibrosis,1
+xanthomas,1
+syringohydromyelia,1
+bloody stools,1
+recto colitis,1
+ADN,5
+travail dans lâinformation,1
+infant facial,1
+intestinal mucosal epithelium,1
+pancreatic digestive,1
+fetal malformations,1
+IAS,1
+embolies,2
+thromboprophylaxis,2
+extracts CBE,2
+neonatal que,1
+nasopharyngeal aspirate,2
+Acral Targetoid,1
+decubitus ulcers,1
+bronchoscopy lavages,1
+PREC,1
+thrombotic vessel,1
+extravascular lipid-deposition,2
+nasal self-swabbing,2
+STH,1
+Nasal polyp tissue,1
+conjunctival route,1
+mucinous secretions,1
+conjunctival samples,2
+pharynx swab,3
+muscle soreness,2
+sepsis-induced,1
+puncture (CLP)-induced,1
+extrapulmonary multiorgan,1
+forehead,1
+motor-,1
+clenched claw,1
+ICU beds,6
+pulmonary vasodilator gas,1
+mucous glands,1
+eSIR,2
+Pulmonary inflammation,1
+bronchoalveolar lavages,2
+cardiovascular diseases,2
+multi-lobe,1
+CSEA,1
+tracheal aspirate,1
+pulmonary arteriovenous,1
+AVMs,1
+intrapulmonary right-to-left,1
+intra-abdominal surgeries,1
+triage/screening,1
+splenic nodule,1
+intestinal water,3
+toilet seats,1
+testicular biopsy,1
+laryngeal tube,1
+ICU bed,1
+subpleural lesions,1
+SARS-CoV-2-induced,1
+wedge-shaped,1
+toilet,1
+extra bed,1
+globe face,1
+neonatal malformations,1
+VSD,5
+summarySevere,2
+inner-body viruses,1
+gut-associated microbiota,1
+posterior left,1
+temporoparietal cortex,1
+single-word,1
+intracranial TMEV,1
+tracheal scrapings,1
+material-specific,1
+zosteriform lesions,1
+VCMs,1
+small domes,1
+Gut Barrier,1
+reticular pulmonary,1
+ICU network,2
+cardiovascular metabolic,1
+droopy left,1
+eosinophilic infiltrations,2
+fibrous lesions,2
+mineral oils,2
+tubular body,1
+cerebral tissue,1
+Brain sections,1
+exocrine parotid,1
+trigeminal nerves,2
+olfactory tract,1
+trigeminal nerve,2
+adrenal hyperplasia,1
+adenomatous polyps,1
+ciliary body,3
+maxillofacial surgery,1
+vitreal cavities,2
+gizzard lining,1
+corneal ulcers,3
+social-and,1
+CNS demyellnatlon,1
+tracheal swabs,3
+white-matter lesions,1
+incisional pain,1
+neonatal mucosal,1
+CNS sections,1
+hepatic coccidia,1
+abdominal masses,1
+mid-small intestine,1
+intestinal BBM,1
+Parkinson's,3
+hepatic granulomas,1
+marginal erosions,1
+renal parenchyma,2
+frontal part,3
+elbow crease,1
+airway calibre,1
+adipose renin-angiotensin,1
+suppurative placentitis,1
+fetal bronchopneumonia,3
+laryngotracheal,1
+intestinal loops,4
+ileal loops,3
+oesophagogastroduodenoscopy,1
+gastrointestinal biopsy,1
+necrotic orchitis,1
+paranodular),1
+neonatal parenteral,1
+pseudomembranous ileitis,1
+high doseâacute,1
+pulmonary abscesses,1
+fetal oropharynx,1
+ileal mucosae,2
+papular skin,1
+nasal stuffiness,1
+transitional epithelium,1
+subcutaneous buprenorphine,1
+trochanteric fossa,2
+spermatic cord,1
+prostate glands,1
+thyroid glands,1
+parathyroid gland,1
+diffuse-sclerosis-type lesions,1
+serous nasal,1
+well-circumscribed,1
+molar malocclusions,1
+maxillary molars,1
+midline abdominal,1
+biopsy punches,1
+Intestinal microflora,1
+nasal swab specimens,2
+savagery,1
+lymphoreticular hyperplasia,1
+thyroid gland,2
+intestinal volvulus,2
+spinal contusion,2
+perianal skin,3
+intramammary inoculations,1
+milk infant,1
+venous thrombotic,1
+alveolar dysplasia,1
+tract lesions,1
+palatine abscess,1
+skin elasticity,1
+Intestinal Coccidiosis,1
+nasogastric tube,1
+oral electrolyte,6
+Gonadal adipose,1
+pulmonary alveolar,1
+wheezy infants,2
+Nasal lavage,1
+edible vaccines,2
+intestinal secretions,3
+paravertebral muscles,1
+spinal hyperesthesia,1
+intraparenchymal infiltrative,1
+cardiac exsanguination,1
+intrathoracic transection,1
+cardiac exsanguinations,1
+intestinal sections,4
+ileal parts,1
+harderian gland,1
+Necrotic Colitis,1
+necrotic colitis,1
+oral-gastric,1
+mucosal sections,1
+Liver biopsies,1
+cheeks,1
+osmotic/maldigestive,1
+cardiac lesions,4
+intestinal specimen,1
+nasopharyngeal duct,1
+F. J.,1
+formalin-fixed intestines,1
+pulmonary neutrophilic,1
+pulmonary eosinophilic,2
+Ileal Loops,1
+Thiry-Vella loops,3
+microvesicular fatty,1
+LD50,1
+perivascular lipid,1
+intramuscular inoculations,2
+Jejunal myoelectrical,1
+cardiac ischemiaâreperfusion,1
+crypt abscesses,1
+colonic lesions,1
+nipple--,1
+cecum weight-body,1
+U-rich tract,1
+intestinal architecture,1
+diaphyseal,1
+parotid salivary,1
+duodenal biopsy specimens,1
+hyperesthesia,1
+bronchial secretions,1
+ear edema,3
+intestinal brush,1
+periportal hepatic,1
+perivascular regions,3
+body sialoadenitis,1
+parahepatic haemangioma,1
+lymphoid hyperplasia,1
+duodenal aspirate,2
+Duodenal biopsy,1
+jejunal biopsy,1
+rectal biopsies,1
+abomasum wall,1
+jejunal samples,1
+periocular structures,1
+cecal contents,1
+eyelid sections,1
+foetal intestinal lesions,1
+Liver biopsy,1
+Atherosclerotic Coronary,1
+icterus,1
+gross perirenal,1
+Hepatic lipidosis,1
+thoracic cavities,2
+optic tract,1
+superficial layers,1
+esophagitis,2
+fibrinopurulent rhinitis,1
+intestinal homogenate,3
+GGO lesions,1
+oropharyngeal swabs,1
+pharynx swabs,1
+cesarean sections,1
+neonatal nasopharynx,1
+TheHRCT,1
+ocular superficial,1
+lobular septum,1
+ground-glass lesions,1
+cord-like lesions,1
+interlobar pleura,1
+Pharyngeal swab,1
+conjunctiva sacs,1
+wound patients,1
+fecal mouth,1
+spinal puncture,1
+spleen stomach,1
+hepatobiliary inflammation,1
+nasal swab fluids,1
+nervous system,1
+Frontal chest,1
+tree network,1
+abdominal body,1
+neonatal necrotizing,2
+colonic flora,1
+intestinal acids,1
+BAMG,2
+mammary secretions,3
+mucosal portal,1
+spinal fluid,1
+half-smooth tongue,2
+Pulmonary Pathology,1
+perihilar edema,1
+cecal inflammation,1
+mÃºltiples,1
+submandibular lymphadenopathy,1
+pulmonary dysplasia,1
+nasogastric feeding,1
+sinusal cardiac,1
+nasal washings,1
+rectum amniotic sac,1
+airway sensory,1
+urethral catheters,1
+inflammation agents,1
+intestinal contents,1
+pulmonary nodule,1
+Body weight,3
+polimerasa-transcripciÃ³n,2
+fueron sibilancias,2
+cerebral emboli,1
+CNS coronavirus,1
+pollen,1
+posterior rhinomanometry,1
+mucocilliary drainage,2
+glomerular pathology,1
+Chapel-Hill vasculitis,1
+sputum purulence,1
+intraosseous femoral head arteries,1
+intraosseous pressure,1
+CIT50,3
+hind leg,1
+liver biopsies,1
+intravascular thrombus,1
+Intravascular thrombus,1
+subacute spinal,1
+digestive fluids,1
+duckÂ´s intestine,1
+neonatal suckling,1
+subgingival lesions,1
+hyperplastic gingivae,1
+hind limb,2
+intranasal inoculations,2
+intestinal antibodies,1
+thoracic organ,2
+PCIP,1
+bacillary angiomatosis,1
+Bronchopulmonary Dysplasia,1
+echinacea,1
+intrapulmonary bronchi,1
+bronchopulmonary sensory,1
+abdominal musculature,1
+extrapulmonary sensory,1
+intestinal mucous,1
+jejunal mucous,1
+joint effusions,1
+serous cavity,1
+amniotic sac,3
+COPD,1
+Bud,1
+Membranous glomerulonephritis,1
+Kidney samples,2
+bronchospasm Â»,1
+importante chez,1
+posterior funiculus,1
+moyenne dâÃ¢ge,1
+jejunal myoelectrical,2
+necrotizing phlebitis,1
+periphlebitis,3
+Visceral lesions,1
+fibrinopurulent bronchopneumonia,1
+centrilobular hepatic,1
+intraluminal adult,1
+foot ulcers,1
+nasal bridge,1
+EVD Just-in-Time,1
+Proventricular,2
+estÃ¡n sometidos,1
+Intravascular catheters,1
+preovulatory,1
+muscular tremors,1
+cecal samples,1
+intravascular catheter,1
+pneumocystis,1
+pylorus aborally,1
+intestinal foreign,1
+superficial fungal,1
+granulomatous necrotizing,1
+pharyngeal erythema,1
+conjunctival suffusion/conjunctivitis,1
+circumoral pallor,1
+oropharyngeal edema,1
+conjunctival suffusion,4
+oropharyngeal erythema,2
+periorbital edema,1
+bed head,1
+pre-term infant,2
+myfibrillar,1
+Nasal aspirate,1
+cystic oviducts,3
+placental oxygen,1
+fetal thrombotic,2
+virgin,1
+neonatal gastrointestinal,2
+purulent bronchopneumonia,1
+intestinal protozoal,1
+granulomatous pneumonia,1
+fat body,2
+pectoral muscles,1
+thrombotic microangiopathy,2
+post-transplant IPS,1
+T-V loops,2
+intestinal juices,1
+CNS cytokine network,4
+clefts,1
+intra-alveolar,1
+interstitial pulmonary,2
+pulmonary lesion,2
+transtracheal aspirate,1
+solid oral,1
+serous effusions,1
+perÃ­odo mencionado,1
+semestre,1
+boundary layer,1
+periparturient dairy,1
+nasal turbinate tissues,1
+ulcerated lesions,1
+paranasal sinusitis,1
+sinusites ou,1
+nasal cannula oxygen,1
+posterior urethral,1
+inguinal hernia,1
+partial/full,1
+river red,1
+intestinal lymphatic,1
+Hassall body,1
+serosanguineous exudate,1
+duodenal sigmoid,1
+convoluted renal tubules,1
+Thrombotic thrombocytopenic,1
+thrombotic thrombocytopenic,1
+Nonclassic Renin-Angiotensin,1
+circulatory shock,1
+GFAP-Db,1
+apico-posterior,1
+cavitary lesion,1
+HRV-induced upper,1
+profusely watery,1
+dermal infiltrations,1
+gut digestive,1
+Centrilobular nodules,1
+lobular shadows,1
+bloodstream infections,1
+anterior fontanelle,1
+patch-tests dans,1
+solid formulations,1
+skeletal lesions,1
+purulent inflammation,1
+importante realizar,1
+petal-shaped projections,1
+tracheal lobe,1
+ethmoid sinus,1
+nodular cutaneous,1
+watery intestinal,1
+Eosinophilic fibrosing,1
+gastric wall,2
+eosinophilic fibrosing,1
+intestinal gut,1
+cardiovascular heart,1
+intracranial lesions,1
+gall bladder,1
+mucus samples,1
+Mucus samples,1
+Nasal-pharyngeal swabs,1
+transbronchial biopsies,1
+CBF,1
+remyelinated lesions,1
+protected-unfenced,1
+hepatobiliary diseases,1
+FMD,1
+infant microbial,2
+nasal microbial,1
+ileal regions,1
+kidney sections,1
+infant-toddler,1
+Hepatic oedema,1
+posterior synechia,1
+PKU,1
+non-septic ARDS,1
+intestine segments,2
+maxillary sinuses,2
+intraperitoneal interferon-Î³,1
+hFAN1 structures,1
+peptic fingerprints,1
+duodenal lumen,1
+Tracheal swab,1
+embryologic,1
+excisional biopsy,1
+Peribronchovascular Disease,1
+pineal gland,2
+pituitary gland,2
+cerebral organoids,1
+ear drop/head,1
+Fin,1
+supra-,1
+infra-tentorial regions,1
+Pulmonary embolism,1
+intestinal absorptive,1
+nasal rubbing,1
+9-day-old,1
+IAN,1
+extra shade,1
+parlour,1
+tracheal inflammation,1
+sensory trigeminal,1
+tracheal mucosal,1
+chest-wall indrawing,1
+solid herd,1
+single-pass intestinal,1
+intestine sites,1
+abomasal ulceration,1
+bloody fluid,1
+splenitis,1
+cystic fluid,1
+valeur d'un,1
+nasal inspiratory,2
+abomasal luminal,1
+importante pensar,1
+internuclear,1
+intestinal cannula,2
+Nasopharyngeal Skills Day,1
+vesicular stomatitis virus,1
+Tracheobronchial lavage,2
+geniculate ganglion,1
+vestibulocochlear nerve,1
+LDT,1
+chinchilla otitis,1
+fibrinopurulent jejunoileitis,1
+subpleural lungs,1
+cardiovascular pathologies,1
+pedal abscess,1
+interstitial paucicellular,1
+digestive tube,1
+meningeal immune,1
+CNS barrier,1
+pseudocerebellar,1
+duct bends,2
+subcutaneous fluid,1
+Vestibular,1
+intranasal-oral,1
+yolk powder,1
+subglottic suction,1
+oropharyngeal secretions,1
+nasal positive-pressure,2
+TTN,1
+cardiopulmonary bypassâinduced acute lung,1
+sinus secretions,1
+colostral fat,1
+GI endoscopy,1
+insuficiencia renal,1
+cardiovascular (,1
+post-hatch,1
+intestinal cytokine,1
+marrow transplants,1
+giant-cell infiltrate,1
+inflow boundary,2
+inlet boundary,1
+ascitic fluids,1
+intestinal secretory,1
+Venous thromboembolism,1
+caudal small intestine,1
+granulomatous disease,1
+urogenital tracts,1
+nostril,1
+nasal drip,1
+Vesicular structures,1
+intestinal villous,1
+pourrait faire lâobjet,1
+potentiel explicatif,1
+pre-conceptual ewes,1
+early-postnatal calves,1
+Gastritis,1
+pars esophagea,1
+newborns small,1
+CHOs,1
+indomethacin-induced ulcerative,1
+faecal colour,1
+aphthous-like ulcers,1
+vesiculo-bullous eruptions,1
+nasal fluids,1
+hypothalamic-pituitary- testicular,1
+thymus gland,1
+extra-organ,1
+Tracheoesophageal fistula,1
+diarrheal dairy,1
+taste sticks,1
+Forehead,1
+intestinal slices,2
+ileocaecal junction,2
+nasal concha,1
+intramammary infections,1
+solid Al2O3,1
+spinal reflexes,1
+Intraocular Fluid,1
+intraocular fluids,1
+renal lipid,1
+lavage samples,1
+sac lesions,1
+serosanguinous fluid,1
+adult engorgement,1
+ecchymotic lesions,1
+thrombotic vasculopathy,1
+endocardial lesions,2
+pulmonar o,1
+nerve lesions,1
+star networks,1
+bronchopulmonary colonization-infection,2
+Vero-APN,1
+knee extensor,2
+tubulointerstitial kidney,1
+submucosal glands,1
+cranial cavity,1
+subgeomic,1
+ocular samples,1
+skin allograft,1
+gluteal muscles,1
+intra-abdominal edema,1
+gallbladders left,2
+Nasopharyngeal aspiration fluid,1
+gastroenteric pathogens,1
+traditional/popular,1
+subcutaneous oedema,1
+posterior kidney,2
+hay datos,1
+dispepsia,1
+spongiotic lesion,1
+nasal speciments,1
+nasal antibody,1
+mucocutaneous lesions,1
+p=0Â·0009,1
+NCDs,1
+4-day-old,1
+hypothalamic supraoptic,1
+postrema,1
+blood-brain,1
+peritoneal/pleural effusions,1
+e-Health,1
+abdominal fat,2
+bullous lung,1
+extra domains/cofactors,1
+neonatal piglets,1
+Intraventricular hemorrhage,1
+nasal brushes,1
+Cytomegalovirus-Induced Adrenal Insufficiency,1
+intraosseous route,1
+star network,2
+nasal flush,3
+subglottic suctioning,1
+ulcerative cloacitis,1
+ischemia-perfusion,1
+solid organs,1
+gut-associated immune,1
+FFP2,1
+ProMED-mail network,1
+Mucosal lesions,1
+gut lesions,1
+Pulmonary eosinophilia,1
+pulmonary airway,1
+vagal afferent,1
+plexiform layer,1
+trigeminal,1
+pituitary pars,1
+myocardial lesions,1
+i.ci.n,1
+tracheal swab,2
+crepitant necrosis,1
+Throat samples,1
+circulatory diseases,1
+high steroid,1
+Fall,1
+cirrhotic livers,1
+uterine endometrium,1
+cellulitis,1
+Joint Fluid Evaluation,1
+non-alcoholic fatty liver,1
+nasal MERS-CoV,1
+Parasitic agents,1
+hepatic viral,1
+nasal cytokines,1
+wide-body,1
+pituitary cromophobe,1
+Fiberoptic Bronchoscopy,1
+Chord,1
+skin ulcerations,1
+vesicular stomatitis,1
+vertebra,1
+pleural empyema,1
+neonatal SARS-CoV-2,1
+attitudinal/behavioural,2
+retinohypothalamic tract,1
+articular inflammation,1
+extra-articular,1
+nasal mupirocin,1
+hepatic lipidosis,1
+thoracic limb,1
+myocardial infarctions â,1
+maxillary dental,1
+ear pressure/fullness,1
+sinuses back,1
+Kidney biopsies,1
+arterias coronarias,1
+intestinal mucosal surface,2
+brown-egg laying,1
+scar-free,1
+wound beds,1
+pre-term infants,1
+Pulmonary Thromboembolism,1
+RPF,1
+infiltrative/mass lesions,1
+acute cardiac,1
+PDR-Ab,1
+intestinal mucosal immune,1
+oral ulcerations,1
+extra small,2
+mucosa rectal,1
+gastrointestinal nematodes,1
+Molluscum contagiosum,1
+leader-switching,1
+OV,3
+airway lesions,1
+Parkinson,4
+pre-motor,1
+sublingual vaccine,1
+nonpurulent bulbar,1
+palm/sole erythema,1
+gut microflora,1
+satiety,1
+multi-lobe lesions,1
+nonstreptococcal tonsillitis,1
+superficial mucosal,1
+gastrointestinal foreign body,1
+pulmonary flora,1
+alopecia,1
+negative-pressure,2
+GI tract,1
+autonomic reflexes,1
+meningeal lesions,1
+meningeal vasculitis,1
+frontal lobe,1
+preeclampsia/eclampsia,2
+gastrointestinal bleeding,1
+intrauterine rubella,1
+intrauterine mumps,1
+granular bed,1
+intestinal bacterial,1
+syndrome-mediating,1
+blood-central nervous,1
+ulcerative dermatitis,1
+granulomatous vasculitis,1
+Chimera,1
+endotoxic fever,1
+muscular sprain,1
+caudal bursa,1
+nasal lavages,1

@@ -1,0 +1,1604 @@
+MULTI_TISSUE_STRUCTURE,frequency
+nasopharyngeal secretions,1
+joint,162
+Walls,3
+cesarean,1
+airways,268
+CAM,49
+mucus,140
+vesicular,67
+coronary artery,86
+airway,695
+nasal mucosa A 21-year-old man,1
+nasal,109
+allantoic fluid,21
+portal,42
+Arterial carbon dioxide,1
+Arterial carbon,1
+NPA,75
+pulmonary artery catheter,2
+kidney sections,1
+vessel,22
+cuprizone,4
+corpus callosum,15
+tracheobronchial aspirate,3
+placental,38
+ear mucosa,1
+lavage fluid,1
+udder edema,1
+allantoic cavity,3
+allantoic fluids,5
+Joint,33
+nasopharyngeal aspirate,52
+FMD,7
+CL,33
+lymph nodes,197
+infrapatella fat,1
+lumens,4
+bone marrow,172
+mucosa,78
+node,41
+portal tracts,2
+olfactory neurons,1
+nasal olfactory epithelium,1
+lung interstitial,5
+muscle fibers,2
+nodes,13
+enterocyte,1
+villous,49
+interstitial,68
+lymphatic follicles,2
+BAL,96
+internodal,1
+ventricular,6
+aqueduct,2
+Polar,1
+Nasal,9
+fecal samples,19
+Lung Lesions,1
+ciliary,13
+allantoic sac,2
+chorioallantoic membranes,1
+Allantoic fluid,3
+myocardial vasculature,1
+vasculature,23
+root explants,2
+vascular,183
+cord blood,12
+submucosal gland ductal epithelium,1
+submucosal gland acinar cells,1
+cambium,1
+lateral root primordia,1
+CFR,70
+coronary,59
+PCN,3
+DLN,2
+vesicular stomatitis virus,45
+Airway,51
+lung microvascular endothelium,1
+interstitial edema,10
+corpus,12
+NPS,44
+BCG,6
+neuromuscular,24
+airway mucus,3
+cortical neurons,15
+hair,11
+LBM,2
+Tumor Blood Vessels,1
+blood vessels,42
+tumor blood vessels,3
+3D,2
+neural networks,7
+Retinal,13
+Placental Vascular,1
+peripheral nervous,16
+peripheral organs,9
+lung aspirates,1
+airway aspirates,1
+ileum,122
+aortopulmonary vessel,1
+Lymph Nodes,4
+lymph node meta-transcriptomes,1
+pulmonary arterial,18
+faecal samples,12
+Cochlear,1
+cochlear lumen,5
+cochlear fluid,1
+vestibular labyrinth,1
+cochlea lumen,1
+placental malaria-specific,1
+lung biopsy specimens,4
+alveolar,41
+gut mucosa,6
+NPs,25
+myocardial,135
+iridovirus,2
+nasopharyngeal aspirate samples,12
+blood vessel-related,1
+lymph node,85
+lung airways,7
+Nasopharyngeal Microbiota,1
+vestibular,13
+stria vascularis,4
+tuber ethanol,1
+Vascular,12
+Networks,4
+retinal,64
+retina,38
+RER whorls,3
+cortical,18
+PBSC allografts,1
+nasal mucosa,54
+emboli,1
+perihilar reticular,1
+reticular,11
+alveolar fluid,8
+lung aspirate,1
+P=0.007,2
+Bone Marrow,8
+joints,23
+peritoneal cavity,15
+lung parenchyma,30
+PPI network,6
+PPI networks,2
+peripheral tissues,16
+SM,5
+Acta Crystallographica,1
+lung epithelia,2
+bronchi,33
+intestinal mucosa,50
+gastrointestinal mucosa,6
+cardiopulmonary,29
+FV,22
+FVs,5
+olfactory bulb,30
+adenoidal,1
+FTLS,1
+vesicular structures,2
+mesenteric,7
+vessels,30
+cardiovascular,8
+coronary artery lesions,9
+coronary arteries,8
+coronary aneurysm,1
+KRG extract,2
+optic nerve,15
+colorectal,9
+axial,2
+airway surface liquid,1
+day-14 sputum,2
+day-14 stool,1
+rectal swab,2
+nasal swab,7
+sacral ganglia,1
+olfactory bulbs,6
+aortae,1
+hippocampal,5
+Mucosa,3
+olfactory nerves,4
+arterial,35
+venous,16
+blood brain barrier,5
+Venous,2
+adenotonsillar,3
+FM,3
+eosinophilic cytoplasmic,2
+pulmonary vasculature,5
+Fingerprint,1
+blood vessel,8
+glomeruli,10
+tubule,8
+lung tissues,7
+pleural exudates,2
+tubular,9
+mucosa surface,1
+solitary efferent fibers,1
+ventral posterior cochlear nucleus,1
+lateral lemniscus,1
+Hepatic,18
+vesicular stomatitis virus (VSV)-based,1
+anterior nasal swab,2
+cecal,9
+salivary gland,2
+ovarian follicles,2
+placental biopsy,1
+lung biopsy,23
+tracheobronchial lymph nodes,2
+ectodermal,2
+RVP,7
+lung zones,6
+anterior nose swab,1
+micro-organisms,1
+CNS,18
+arterial CO(2,1
+nasopharyngeal aspiration,1
+Retina,3
+AMD-like,1
+retinal pigment epithelium,2
+FFT,2
+nasal septa,1
+fetal rabbits,1
+Corticosteroid,6
+Cord Blood,2
+CF,22
+Flocked NPS,1
+sublingual mucosa,2
+brain parenchyma,7
+bronchoalveolar lavage,8
+nodular,5
+vesicular oral,1
+3D structures,2
+lung sections,6
+airway tract epithelium Airway epithelium,1
+corneal,10
+non-corneal,1
+subchondral trabecular bone,1
+subchondral bone,1
+Nanoparticles,18
+hair follicles,2
+Fetal equine dermal,1
+blood brain,8
+perivascular cuffs,3
+nasal fluids,1
+nasal virus,3
+jejunum,22
+peripheral blood,2
+gastric mucosa,4
+lymph node sinusoidal endothelial cell C-type lectin,1
+anterior foam,1
+Fetal,2
+fetal,42
+arteries,6
+optic nerves,12
+tubular lumen,1
+Cl,2
+marrow,2
+femoral marrow,1
+ventricles,9
+cortical actin,2
+left ventricular end-diastolic,1
+pericentral foci,1
+pulmonary alveolar,4
+lobar,10
+villus,31
+choroidal,5
+FP7,1
+egg yolk,24
+glomerular,23
+peripheral vascular,3
+neutrophilic airway,1
+peritoneal fluid,2
+islet,4
+bronchial wall,5
+perilobular,1
+craniocaudal,1
+olfactory mucosa,4
+lymphoid perivascular cuffs,1
+endotracheal aspirate,1
+NTD,56
+arterial lactate,2
+follicles,11
+follicle,13
+primordial follicle,1
+Nasal mucosa,1
+BBB,5
+Islets,1
+FT1DM islets,1
+islet vasculature,1
+follicular,5
+FRC network,3
+lung parenchymal,8
+granular,7
+vacutainers,2
+colon lumen,1
+Nose,1
+wall,6
+oropharyngeal microbiome,1
+medulla,3
+chorioallantoic membrane,4
+Acids,4
+NCI2000,1
+hepatic Cyp3a,1
+pulmonary vascular,11
+circulations,3
+Pulmonary arterial,2
+pulmonary vascular bed,1
+IGL,5
+first-wave,1
+pulmonary arteries,2
+lymphatic vasculature,1
+lymphoid architecture,1
+tubule-specific,1
+MBDS network,1
+VC,2
+genital mucosa,2
+left ventricular,15
+melanins,1
+brown pigmented conidia,1
+lung interstitium,1
+mesenteric lymph nodes,15
+FRT,2
+ileal,4
+foetal human thymus,1
+alveolar ducts,1
+venous blood,7
+artery,9
+peritoneum,7
+jejunal villi,3
+extraalveolar,1
+tracheal ciliary,3
+Slight-to-moderate,1
+kidney biopsy,2
+whole-joint,1
+Villous,5
+crypt,19
+peripheral extremities,2
+muscle fiber,1
+lung neutrophilic,1
+pulmonary artery,9
+catheters,6
+islet allograft,1
+lymphoid follicles,7
+nasal exudates,1
+arterial blood,18
+choroid plexuses,2
+LNs,27
+axillary LNs,1
+fetal heart,5
+Pancreatic Islets,1
+pancreatic islets,7
+islets,11
+celiac,1
+vitreous samples,1
+cecal microbiota,2
+spermatozoon,1
+aorta,8
+endometrium,3
+peripheral nodes,1
+bladder wall,1
+pollen,2
+multi-lamellar vesicular,1
+Lung Allograft,5
+lung allograft,9
+piglet fecal,3
+lung capillary,1
+nasopharyngeal samples,2
+microvascular,4
+thalamus,12
+PPV-induced,2
+mesenteric artery,2
+nodal,14
+Myocardial,11
+kidney biopsy 8,1
+nasopharyngeal swab,16
+Neuromuscular,3
+EDX,2
+acellular,4
+corneal fluorescein,1
+ear fluids,3
+polymodal,1
+tracheal aspirate,2
+nasal airway secretions,1
+LPM,4
+lymphatic tissue,3
+peripheral lymphatics,1
+sectoral collaborations,1
+tumor blood vessel,1
+nasopharyngeal/oropharyngeal swabs,1
+lung biopsy samples,1
+lymphatic vessels,6
+Nasopharyngeal microbiota,2
+Lymph Node,3
+nasopharyngeal specimen,6
+duodenum,30
+lens,2
+Intralobular,1
+cortices,1
+rectal swab samples,2
+alveolar fluid exudate,1
+liver sections,1
+Islet,3
+sputum specimens,7
+scientistsâ,7
+Fetal human lung fibroblast IMR90 cells,1
+fetal human lung fibroblasts,1
+nasal microbiota,8
+NII,1
+exudate,1
+wall vessel,2
+NASA,1
+tracheal mucus,1
+NS,1
+Lymph Node Subcapsular,1
+hepatic fat,3
+jugular vein,6
+margin-reflex,2
+jejunums,2
+brain biopsy,4
+ND,4
+ND foals,2
+foetal embryonic,1
+Cortical,2
+Fall,3
+trunk muscle,1
+liver biopsy,6
+bone marrow edema,4
+fetal goat tongue,1
+brachial tree,1
+cerebellar,19
+faecal oocyst,2
+stria medullaris,1
+Coronary artery,1
+nasopharyngeal microbiota,11
+USG,3
+peritoneal,26
+CB,1
+bronchoalveolar fluids,1
+rostral cerebellar artery,3
+lung microbiome,18
+foveal,1
+ND vaccine,3
+lumbosacral plexus,2
+arterial oxygen,10
+Lymph Node Stroma,1
+frontal,7
+central venous catheters,4
+Left ventricular outflow tract,1
+F. Elkmann,1
+conjunctival,3
+nasal cannula,3
+endobronchial aspirate,1
+right ventricular,11
+F. Bloos,1
+hippocampal dentate gyrus,1
+post-bone marrow,2
+antitubercular,5
+MOC,1
+anterior lobe,1
+Bone marrow cytology,1
+pulmonary architecture,2
+elemental,3
+F. indica,1
+brain biopsy tissue,2
+LBM market,1
+bone material,1
+caval veins,1
+nasopharyngeal swab samples,5
+lymphatic duct,1
+neural network,31
+hilar,7
+Lung parenchyma,1
+pleural thickening,1
+hepatic,5
+airway neutrophilic,1
+lymph nodesârelapsing,1
+tracheobronchial tree,1
+axillary lymph nodes,3
+airway microbiome,7
+lung tissure,1
+supply-demand,1
+nasopharyngeal washings,6
+airway microbiota,5
+mesenteric fat,1
+F. necrophorum,8
+nasopharyngeal microbiome,7
+anterior commissure,2
+ventral tegmental,3
+jejunal,15
+CBS,3
+vessel walls,1
+BALF samples,2
+BALF,5
+ear microbiome,1
+nasopharyngeal microbiomes,1
+stria terminalis,1
+posteromedial cortical amygdala,1
+anterior AOB,1
+Portal,2
+vaginal microbiota,2
+cervicovaginal mucosa,1
+vaginal mucosa,4
+unsegmented,1
+Lung Microbiome,2
+heart sections,1
+Intestinal Mucosa,2
+RVC,5
+RVC VP6 gene-specific,1
+nasal cannulae,1
+finger-stick blood,1
+vesicular stomatitis-Zaire,1
+corpora,6
+BAL FARP,7
+visceral urate,1
+liver surface,1
+airway viruses,1
+nasopharyngeal microbial,1
+cellular nucleos(t)ide,1
+allantoic liquid,1
+fetal liver polygonal cells,1
+villi,43
+peripheral nerve,6
+Intracellular Cholesterol,2
+PBM networks,1
+PBM network,2
+epicardial vessel,1
+neonatal arterial,2
+Hair,2
+nasal submucosa,1
+Caudal Cerebellar,1
+Cerebellar artery,1
+caudal cerebellar artery,1
+goblet,1
+leaf material,1
+nasal airways,1
+Tannins,1
+airway hyper-responsiveness,1
+peritoneal lavage,2
+lung epithelium,6
+joint posterior,2
+sinonasal mucosa,4
+basal-forebrain BBB,1
+PPs extracts,1
+femoral vein,1
+ventral thighs,1
+tracheal,6
+facial nerve,4
+CWs,2
+chorioretinal,1
+blood-retinal,1
+hepatic insulin,2
+subchondral fractures,1
+atheroma,1
+lung architecture,3
+longan embryo,1
+prostate gland,1
+Nasopharyngeal Interface,1
+pulmonary mucosa,2
+Nasal Mucosa,1
+nasal mucosa tissue,1
+leaf extract,1
+liver biopsy specimens,1
+Peritoneal,10
+CHN,1
+myocardial virus,1
+Nasal microbiota,1
+tail vein,3
+choroid plexus,10
+FDA-approved,1
+rectal mucosa,4
+cranial nerves,2
+tail-hair follicles,2
+oropharyngeal swab,1
+FSC,1
+lung infiltrates,12
+airway fluid,2
+eosinophilic airway,1
+valved,1
+peripheral facial,1
+cranial nerve palsies,1
+bone mineral,6
+brain vascular endothelium,1
+shell gland,1
+subclavian artery,1
+Subclavian artery,1
+vacuolar,8
+isoflavonoids,1
+mucus viscosity,1
+lateral pterygoid muscle,2
+brain vessels,1
+pial vessel,1
+cerebral artery,5
+coronary aneurysms,5
+peripheral zones,2
+lymph node germinal centers,1
+canalicular,1
+cervical mucosa,5
+subepithelium,1
+sinusoidal,5
+yolk IgY,1
+anterior nasal swabs,2
+meningeal blood vessels,1
+clubbed,1
+bone trabeculae,1
+bone lacunae,1
+vesicular stomatitis virus infected cells,1
+Intercellular,3
+adrenal gland,6
+Ecklonia cava,1
+nasal samples,1
+cecal mucosa,5
+CALT,4
+portal venous,1
+peripheral eosinophilia,3
+FGESF,2
+urethral mucosa,1
+faecal microbiota,1
+Placental,2
+myocardial biopsy,1
+Mucus,1
+nasopharyngeal/oropharyngeal swab,1
+nasal microbiome,2
+bone marrow/liver/thymus,1
+PAs,1
+RRSs,3
+centrum semiovale,1
+RVC virus-like particles,1
+fecal virus,3
+colon biopsies,1
+serosa,1
+striatum,9
+fetal membranes,3
+fetal ZIKV,1
+analyte,6
+myenteric plexus neurons,1
+Fecal Microbiota,1
+NPA samples,2
+TET,4
+CAD,1
+eosinophilic,4
+laryngeal mucosa,2
+NT,3
+dLN,2
+colonic mucosa,5
+medial turbinate epithelium,1
+umbilical cord,3
+circulatory,5
+jugular vein blood,1
+fecal microbiota,1
+acinar airspace,1
+lung barrier,1
+synovial fluids,1
+Alveolar,6
+ileum lamina propria,1
+airspace,6
+wall deformities/Neuromuscular,1
+optic chiasma,1
+pons,1
+inner myelin lamellae,1
+vasculitis-induced,1
+piglet jejunal,1
+anterior brain,1
+submucosa,4
+olfactory nerve perineurium,1
+ventral meninges,1
+olfactory tracts,1
+anterior ramifications,1
+lateral ventricles,4
+tracheal exudate,1
+cortical layers,1
+folial,1
+lateral vestibular nucleus,1
+portal vein,3
+Pulmonary vascular endothelium,1
+pulmonary alveolar septae,1
+RTN,1
+fetal rat brain culture,1
+Cellular cholesterol,1
+crypts,8
+intestinal villi,4
+globules,1
+perivascular cortical,1
+brainstem,2
+anterior olfactory,1
+fetal rhesus kidney,1
+nasal cannula oxygen,1
+peritoneal exudate,10
+peritoneal fluids,1
+nasal turbinates,5
+nasal vasoconstrictor,1
+lumena,2
+acini,1
+D-cells,1
+bronchial airways,1
+airway hyper-reactivities,1
+cubital veins,1
+lateral cisternal,1
+vehicular,4
+jejunal enterocytes,1
+metencephalon,1
+collateral tissue,2
+fecal,3
+periventricular,1
+meconium,8
+Meconium,1
+bone allografts,1
+bone grafts,1
+airway mucosa,8
+nasopharyngeal microbes,1
+day-22,1
+ductal,1
+axons,1
+pial surface,1
+lymphatics,7
+cerebral capillaries,1
+Zang-Fu,1
+gastric juice,3
+NALF,1
+tracheal mucosa,1
+sinusoidal portal,1
+mesenteric vasculature,1
+Layers,1
+colon tissues,1
+retinal pigment epithelial,1
+Nasopharyngeal aspirate,1
+interstitial infiltrates,2
+Bioaerosol,3
+bone marrrow,1
+normal-appearing,1
+"alveolar damage(2,7,8",1
+interstitial space,2
+sinusoidal capillary,1
+endomyocardial biopsy,2
+peripheral joints,1
+lung alveoli,3
+pulmonary vessels,7
+PMNS,2
+yolk sac,4
+yolk sacs,1
+tea saponins,3
+chorioallantoic sac,1
+umbilical duct,1
+FAE,3
+seminal vesicle,1
+jejunum microbiome,1
+anterior pituitary,1
+Peyer,9
+pulmonary perivascular hemorrhage postâMERS-CoV,1
+bronchoalveolar lavage fluids,1
+muscle biopsy,3
+Graft,1
+transbronchial biopsies,2
+graft,2
+placental blood,1
+FDA,2
+caudal medulla,1
+lung explants,1
+PeV,1
+adult dystrophic mdx mice,1
+peripheral muscle,2
+veins,3
+lymph node T-cell,1
+lymph,1
+myometrial,1
+F4,1
+intra-alveolar,1
+prepartum,2
+2-cell embryos,1
+cellular network,2
+open-lung biopsy,1
+ruminal,1
+olfactory bulb line variant,1
+peripheral olfactory,1
+lateral olfactory,1
+olfactory nerve,2
+12th-rib fat,1
+sections,8
+peritoneal cavities,5
+left ventricular myocardium,1
+prostate acini,1
+DRCC,1
+anterior segment,12
+Tail,1
+lung virus,1
+cerebellar neurons,1
+collateral,6
+pulmonary vascular barrier,1
+aortic root,2
+valve,2
+bile,1
+Fungi,1
+ventral spinal cord,1
+tailbud,1
+thyroid follicles,1
+FFR,7
+iliac lymph node,2
+cardiac glycoside,1
+cardiac glycosides,1
+hepatocellular,2
+lung eosinophilic,4
+Coronary Arteriolar Endothelial,1
+coronary arteriolar endothelial,1
+coronary arterioles,1
+coronary arteriolar,3
+occlusal,1
+liver sinusoids,4
+sinusoidal endothelium,2
+lung secretions,1
+villous architecture,1
+neuroretina,1
+size-reduced S1â²,1
+lung airway surface,1
+Glomerular,2
+F. Brederode,1
+vesicular compartments,3
+vessel wall,3
+leaf sheaths,1
+tracheal lavages,1
+interatrial septum,1
+mitral valve,2
+vesicular stomatitis virus surface glycoprotein G,1
+nasal airway,5
+drusen,1
+adenoid microbial,1
+peripheral lymphatic tissue,1
+liver graft,1
+cerebral cortical neurons,1
+nasal exudate,2
+DC-Cholesterol,1
+jejunal mucosa,5
+NVU,2
+IBI,5
+Cardiopulmonary,3
+peripheral lamina,1
+Intrapulmonary artery,1
+hepatic sinusoids,3
+fetal fluid,1
+ventrolateral medulla,1
+airway cytokine/chemokine,1
+vesicular compartment,1
+Umbilical Blood,1
+umbilical blood,2
+airspaces,1
+Networks',1
+Exhaled droplets,1
+vasoregression,1
+rectal mucosa tissue,1
+hepatic immune,1
+caudate,1
+intrahepatic veins,2
+Nasopharyngeal Aspirate,2
+airway CD8 T-cell,1
+renal vasculature,3
+jugular vein catheters,2
+cerebral vessels,1
+Cerebellar,2
+peripheral sites,1
+corneal HSV-1,1
+N4CT1-gag1,1
+LTx,3
+lung grafts,1
+sinusoids,1
+septal vessels,1
+liver tumor-positive woodchuck,1
+intraluminal vesicles,1
+nasopharyngeal bacterial,3
+pulmonary virus,1
+SVC,3
+nerves,1
+Uterine artery,3
+fetal weight,1
+uteroplacental vascular,1
+uterine artery,2
+umbilical artery,1
+placental labyrinth,1
+anterior horn neurons,3
+nasal septum,1
+coronary vasospasm,2
+airway epithelia,2
+lung airway,1
+IOE,4
+airway VHP,1
+nasal washings,4
+PMs,1
+Lymphatic vessels,1
+vesicular fluid,2
+vesicle,2
+conjunctival mucosa,1
+lavage fluids,2
+lavage samples,1
+airway neutrophil,1
+lung microbiota,1
+pulmonary vascular lesions,1
+pulmonary arterial lesions,1
+epithelium,7
+kidney graft,3
+ventricle,1
+epithelial wound,1
+islet graft,1
+airway caliber,1
+vagal preganglionic neurons,1
+kidney transplants,1
+CCZ,2
+colon sections,2
+rostral ventrolateral medulla,2
+PEC,8
+tracheal microbiota,3
+FDR=10,1
+NTDs,1
+seminiferous tubules,1
+lateral ventricle,2
+nodal nerve endings,1
+lymph node sinusoidal endothelial calcium-dependent lectin,1
+HumanâAnimal Interface,2
+cerebrovascular,11
+ZnPT,1
+Airway ciliary,1
+tibial nerve,1
+CNS-draining lymph node,1
+colon epithelium,1
+anterior nare swabs,2
+transbronchial biopsy,2
+aortic afterload,1
+occipital gyrus,2
+non-C,1
+pulmonary vessel wall,1
+liver parenchyma,3
+tubular compartments,1
+tumour vessels,1
+FFR straps,2
+cell wall,1
+heart contractile,1
+Fundus,3
+retinal zones,1
+optic disc,1
+cord blood haematopoietic stem cells,1
+lymphatic endothelium,3
+bronchial airway,1
+"liver biopsy specimens at 3,",1
+Hepatic microcirculation,1
+portal venules,1
+hepatic vessels,1
+peripheral nerves,9
+anterior horn,1
+cirrhotic vessels,1
+Bone marrow,4
+FP,2
+tracheobronchial airway,1
+SMV,4
+mesenteric lymph node,4
+para-aortic arch,1
+joint nucleolar,1
+carotid artery,2
+peripheric,1
+vesicular stomatitis virus G pseudotyped retrovirus,1
+FDA TAGs,1
+hepatic collateral,1
+Pulmonary Arterial,1
+NSP,3
+synovial fluid,9
+limbal conjunctival autograft,1
+NP-based,1
+NAFLD,1
+airway mucin,1
+lung edema,1
+cerebral arteries,4
+nasal mucosa epithelium,1
+cervix [cervical,1
+lung lining fluid,1
+splenic architecture,1
+lymphatic organs,2
+hair follicle,2
+Pulmonary artery,1
+airway explants,1
+caudal,3
+cortical tubules,1
+anterior lamellar,1
+tumor vasculature,3
+fetal rhesus monkey kidney cells,1
+vasculature/perivascular,1
+splenium,3
+kidney grafts,1
+lipid-rich organ,1
+cranial nerve,3
+foetal brains,1
+interstitium,7
+lung vascular,3
+3V,1
+pancreaticoduodenal lymph node,1
+peribronchiolar,2
+Peripheral Joint,1
+peripheral joint,4
+lumina,2
+vesicular stomatitis virus G protein,1
+ileal enteroids,1
+Cortical Blood Vessels,1
+prefrontal,1
+cortical blood vessels,1
+cortical GABA,1
+kidney allograft,1
+interstitial fibrosis/tubular,1
+Circular,1
+Fecal Pellets,1
+A183,1
+NBS,1
+peripheral lymphadenopathy,2
+wing vein,1
+BOA,1
+varicose veins,1
+alveolar cavities,3
+pulmonary fungus in 1,1
+auricular vein,1
+FNEs,2
+micro-vascular,2
+silver,1
+BSCB,1
+verantwoordelijkheid,1
+vaginal epithelium,1
+vena caval,1
+peripheral bronchial wall,1
+interstitial septa,1
+intralobular reticular,1
+lobular,2
+hilar lymphoadenopaties,1
+coronary care,2
+twining lianas,1
+lung microvasculature,1
+vascular compartments,1
+lung FNA,1
+Cps,1
+mediastinum,1
+corpus alienum,1
+Venous Thrombus Venous thromboembolism,1
+acute arterial thrombus,1
+heart valves,2
+heart valve,1
+fetal IgM,1
+fetal immune,4
+fetal body,2
+Lymphatic,2
+eye mucosa,1
+PVS,1
+FCC,1
+CEO,1
+limbic,1
+oral mucosa,9
+lung parenchyma [1],1
+transbronchial lung biopsy,1
+lung allografts,1
+BMC,3
+airway wall,2
+peripheral neuropathies,1
+PBSC,2
+foetal lung,1
+âjudicial vacuumâ,1
+cord blood transplants,1
+hairy roots,1
+CLI,7
+lumpy,1
+vesicular stomatitis,7
+villus-crypt,1
+midvillus,1
+caudal colliculus,1
+anterior columns,1
+periportal,2
+anterior margins,1
+tracheal superoxide dismutase,1
+vesicular lumina,1
+fecal streptococci,1
+ventral tegmentum,1
+Basophils,1
+paracortical,1
+choroid,3
+ileal mucosa,3
+retinal glia,3
+caudal jejunum,1
+nasopharyngeal flora,1
+anterior visual,1
+Macular,1
+sinonasal airway,1
+nasal olfactory,1
+von Ebnerâs glands,1
+periductal,1
+convoluted tubules,1
+serosal,5
+jugular venipuncture,3
+jejunal lymph node,1
+endometria,1
+thin-walled oocysts,1
+anterior horn motor neurons,1
+ureteral acellular matrix graft,1
+intestinal mucosa T lymphocytes,1
+lung-draining mediastinal lymph nodes,1
+alta,7
+W5 veal,2
+aerial part,2
+Corneal,3
+corneal calcareous,1
+corneal scrapings,1
+placental extract,2
+cord blood IgE>0.9,1
+cord blood-IgE,1
+Smooth,1
+arterial carbon,1
+ear artery,1
+fecal material,1
+bronchoalveolar fluid,2
+airway lumen,3
+endometrial biopsy,3
+trunk vessels,1
+cortical bone,4
+ground-grass,2
+anterior area,1
+pleural area,1
+centrilobular,1
+interlobular septum,2
+pulmonary veins,2
+feeder pigs,7
+perivascular cuffing,1
+lymphatic vasculatures,1
+pyramidal layer,1
+streptococci,2
+FEBS Lett,2
+adventitial,1
+knee joints,2
+retinal pigment epithelium cells,1
+Cryo-Electron,1
+hypothalamic-pituitary-gonadal,1
+Peritoneum,4
+cord blood banks,1
+pyramidal,1
+keratinized horny growths,1
+optic foramina,1
+caesarian,1
+Nodes,2
+valves,1
+species-wise,1
+solid bed,1
+nasal vaccine,1
+nasal vaccines,1
+buccal mucosa,3
+gingiva,3
+squamous mucosa,1
+BE microbiome,9
+Joints,1
+Fluids,2
+Oral Biofilms Nanoparticles,1
+Bone allografts,1
+Heart valves,1
+fluids,1
+Tab,1
+PCO,3
+Adrenal,3
+adrenal,3
+anterior 20,1
+pars recta,1
+peripheral area,1
+myocardial injury/myocarditis,1
+shaft,1
+NHS,3
+Kidney,1
+Kidney Failure,1
+KTx recipients,1
+pharyngeal mucosa,2
+nasal aspirates,2
+corona virus,3
+synovial,1
+atrioventricular,1
+alveolar lumens,1
+A7.4,1
+myocardial oxygen,1
+peripheral vasodilators,1
+smooth,1
+peripheral infiltrates,1
+umbilical cord blood,1
+alveolo-interstitial,2
+unipolar,6
+corona,2
+arterial Pao2,1
+arterial Paco2,1
+M-V,1
+oocyte,2
+joint R&D,1
+Peripheral Vestibular,1
+peripheral vestibular,2
+efferent nerves,1
+coronary arterial,2
+tracheobronchial specimens,1
+airway emergen-cies,1
+elderberry fruit,1
+ventricular aneurysm,1
+retinal layers,1
+pleural cavity,3
+uterine endometrium,1
+pupillary,1
+IUS,4
+appendicular joint,1
+corpora lutea,1
+nasal flaring,2
+lumbar-aortic lymphadenectomies,1
+lumbar-aortic,1
+solid feed,3
+PREC,2
+striatal A2AR/D2R,1
+cilia,1
+pulmonary alveoli,4
+conjunctiva,4
+nasal mucus,2
+seminiferous ducts,1
+small-world network,2
+rectal epithelia,1
+cial,1
+lung bronchoalveolar immune microenvironment in COVID-19 patients,1
+fetal organs,1
+peribronchovascular,3
+kidney tubules,1
+CNN,1
+luteal,1
+lymph follicle,1
+testicular biopsy,2
+tracheal cannula,1
+GGOs,2
+anterior nares,1
+neural networks AbstractDecoding,1
+fetal alcohol,1
+anterior left,1
+xylem vessels,1
+lateral amygdala,1
+airway mucin MUC5AC,1
+lung periphery,1
+peripheral zone,2
+lung lobes,1
+Hyaline thrombi,1
+hyaline thrombus,1
+small vessels,1
+IGs,2
+pancreatic microsomes,1
+anterior horns,2
+lymph node T cell,1
+peripheral spleen,1
+lymph node CD4 T cells,1
+smooth membranes,2
+vena cava,2
+airbronchogram,1
+anterior chamber,3
+âopen,1
+fetal lung,1
+thromboemboli,2
+airway surface liquid (ASL,1
+arterial blood glucose,1
+arterial plasma,1
+intestinal microvillar,1
+jejunal villus,1
+intestinal BBM,1
+lateral villus wall,1
+villus/crypt,1
+myofiber,1
+anterior surface,1
+cephalad,1
+bone marrow B-cell compartment,1
+feeder calves,2
+vein,3
+Root,1
+salmonellae,1
+ileal mucosae,1
+Villi,1
+arterial blood pO(2,1
+femur calcar,1
+peripheral lymphoid organs,1
+serous chorioretinopathy,1
+salivary gland nuclei,1
+aortic valve,1
+Hepatic Biopsies,1
+feeder swine,4
+colorectal mucosa,1
+bowel mucosa,2
+lymphoid sites,1
+bowel wall,1
+fetal pigs,1
+cord sera,1
+venous thrombi,1
+RER lumen,1
+bladder catheters,2
+intestinal villous,1
+acinar,1
+pancreatic acinar,1
+sac membranes,2
+proventriculus mucosa,2
+intratumoral virus,1
+two-cell embryos,1
+smooth vesicles,2
+villar,1
+extragenital sites,1
+renal tubules,1
+acelluar vaccines,1
+vaginal smears,1
+ileal lamina propria,1
+subpolyribosomal,1
+HAFs,1
+gastric epithelia,1
+PTV virions,1
+adrenal glands,2
+minus-strand-RNA,2
+anterior coronary artery,1
+liver iron,1
+hepatocellular iron,1
+villous enterocytes,2
+cardiac blood,1
+cecal wall,1
+cecal lumen,1
+intrapulmonary airways,1
+ventral reticular nucleus,1
+bronchiolar ciliated,1
+brain ventricles,2
+ventricular iron,1
+lymphoid compartments,1
+lung lobules,1
+intercapillary,1
+bone marrow cytology,1
+ventral root,1
+arterial PO(2,1
+NP,1
+duodenal,1
+rectal biopsy specimens,1
+1.3-m-long duct,1
+omasal mucosa,1
+oral electrolyte,1
+solid feces,1
+lymphoid follicules,1
+PRRSV-spiked semen,1
+artery sections,1
+viscera,1
+lateral geniculate,1
+colliculus,1
+thalamocortical,1
+tumor venous blood,1
+fat stores,1
+duodenal mucosa,1
+milk fat,2
+liver blood,2
+bronchovascular bundle,4
+interstitial septum,2
+pleura area,2
+corneal transplants,1
+lymph tissues,1
+forebrain,2
+fecal FCoV,1
+bone marrow stroma cells,1
+salivary analytes,1
+cranial sensory ganglia,2
+fetal bovine intestine,1
+fetal intestine,1
+Ileal,1
+metatarsophalangeal joint,1
+VPM,2
+interstitial fluid,1
+organ material,1
+ileal villi,1
+ventrobasal thalamus,1
+large-caliber axons,1
+peripheral edema,1
+rectal amniotic sac,1
+Intrapulmonary,1
+ventriculoarterial,1
+semilunar valvular,1
+bone graft,1
+fine-needle,2
+fecal microbiome,1
+pulmonary artery smooth muscle cells,1
+jugular blood,1
+egg shells,1
+lymph node sinusoidal macrophage-like,1
+airway bacterial,1
+Extravascular marrow fat cell,1
+stem vessels,1
+vesicular stomatitis virus pseudotypes,1
+hair coats,1
+PO,1
+analytes,2
+duodenal aspirates,1
+nasal pharyngeal aspirates,1
+carina,1
+airway vagal,1
+single-dose needle,1
+split-dose needle,1
+egg ZP3,1
+Joint Effusions,1
+BMDs,2
+PVs,1
+anterior/lateral funiculi,2
+posterior funiculus,1
+non-central nodes,1
+serosal cavities,1
+jejunal serosa,1
+fetal cotyledons,1
+caruncles,1
+fecal oocyst,1
+gastric juice of adult pig,1
+PEC halide,1
+Allograft,2
+Fetal Thrombotic,1
+fetal vessels,1
+neoformed vessels,1
+egg yolks,2
+14-day non-recovery,1
+adrenal zona fasciculata,1
+dura,1
+villus architecture,1
+tracheal aspirate samples,1
+alveolar fibrin,1
+circulatory blood,1
+ear vein,1
+OME children,1
+tracheo-bronchial lymph nodes,4
+intervertebral disc,1
+fetal extracts,1
+peritoneal exudates,3
+Avascular,1
+jugular venous blood,1
+peripheral fat,1
+bone wound,1
+arterial walls,1
+joint ANRS-NIH,1
+Lung explants,1
+lymph lipoproteins,1
+subepithelial OX6,1
+tracheal mucosa 2,1
+fenestrae,1
+parietal,1
+cortical veins,1
+Intrapulmonary arterial emboli,1
+talar,1
+intralobular,3
+left ventricular lumen,1
+interventricular septum,1
+vena jugularis,1
+oocyte excretions,1
+anal mucosa,4
+LBM network,1
+peritoneal membranes,1
+COC,4
+muscularis,1
+ventral edema,1
+clear-yellow,1
+kidney disordersâparticularly,1
+nephrons,1
+collecting-duct,1
+peyer,1
+cellular blood,1
+peritoneal lavage fluids,1
+4â21 post-partum,1
+faecal,3
+Tubular,1
+tracheal aspirate/sputum,1
+renal tubuli,1
+peripheral lymph nodes,1
+peripheral germinal,1
+bronchovascular bundles,1
+occlusal surface,1
+myocardial fibers,1
+marrow fat,1
+corpus callosum lesions,1
+lymphatic tissues,2
+myenteric plexitis,1
+plexuses,1
+lung lavage,1
+peripheral airway,1
+axial lung interstitium,1
+Lymphoid,1
+Ultraviolet,1
+Peripheral nerve,1
+pleural fluid/serum,1
+transudate,1
+FWR,1
+hydrophobic-polar,1
+crypt epithelia,1
+jejunum Peyerâs patches,1
+perihilar,1
+anterior kidney,1
+omasal walls,1
+urothelium,1
+extra thoracic,1
+peripheral lymphoid tissues,2
+blood vessels.4,1
+nasal luminal,1
+caecal cannula,1
+cryptal enterocytes,2
+peripheral facial nerve,1
+stomach compartments,1
+PAMs,1
+EuroNHID network,1
+jets,1
+crypt abscesses,1
+bronchial bundle,1
+low-grade airway,1
+Cord blood,1
+anti-microbial,1
+BLN,4
+vesicular stomatitis virus-based,1
+cardiopulmonary bypass,1
+fat,1
+coronary heart,1
+cardiac blood vessels,1
+enteric mucosa,1
+heart blood,1
+virol,1
+rectal virus,1
+peritoneal dialysis-related,1
+bronchial mucosa,1
+autonomic ganglia,1
+retinal pigment epithelial (RPE)-retinal,1
+cord blood samples,1
+alimentary mucosa,1
+anterior part,2
+bronchoalveolar smears,1
+thymic extract,1
+stria olfactoria,1
+A. vasorum,5
+visceral yolk sac,2
+ocular fluids,1
+anterior abdominal,1
+Bone Marrow Cytologic,1
+lung epithelial,1
+Lung biopsy,3
+ND vaccines,1
+airway cholinergic,1
+lung surface,1
+bronchial arterioles,1
+peripheral airways,1
+P=0.055,1
+Hepatic Urea,1
+bone endocrine,1
+foetal liver,1
+LRV,1
+ileal explants,1
+hair cat,1
+arterial lung vessels,1
+fecal specimen,1
+GEA,1
+Lymph nodes,1
+BAL CPs,1
+left ventricular heart,1
+sputum,2
+iliac lymphatic glands,1
+HR +,1
+blood tissues,1
+liver sinusoidal,1
+tracheal aspirate specimens,1
+3D organ,1
+nonmucosal,1
+nasopharyngeal aspirate viral culture and,1
+Node,1
+mid-jejunum,2
+anterior olfactory nucleus,1
+nasal cavity,1
+submucosal glands,1
+turbinate mucosa,3
+Fibro-fatty,1
+right ventricular myocardium,1
+orotracheal tube,1
+SIR compartmental,1
+anterior funiculus,1
+cardiopulmonary resuscitationâAre,1
+pancreatic lobules,1
+anterior spinal cord,1
+corpus luteum,1
+anterior myocardial,1
+intraalveolar,1
+peripheral lung,1
+popliteal lymph node,1
+hair colour,1
+femoral bone marrow,1
+duodenum lamina propria,1
+blood retina,1
+retinal neurons,1
+Collateral,1
+pigment,5
+brown pigment,1
+thyroid gland,1
+cerebral neurons,1
+biopsy material,1
+brachial plexus,2
+colliculi,1
+optic nerve terminals,1
+facial hair,1
+network nodes,1
+vesicular stomatitis viruses pseudotyped,1
+pulmonary artery obstructions,2
+Supraclavicular,1
+foetal membranes,1
+optic nerve fibres,1
+thinner cortical bone,1
+Serosal edema,1
+low-grade CNS,1
+fetal blood,1
+colonic lumen,1
+retinal vascular,1
+myocardial ischemiaâreperfusion,1
+iliac arteries,1
+granular bed,1
+tracheobronchial smears,1
+tubular segments,1
+TMs,1
+smooth cytoplasmic vesicles,1
+nasal LTB4,1
